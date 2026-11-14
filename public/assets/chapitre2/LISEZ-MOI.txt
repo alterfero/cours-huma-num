@@ -1,0 +1,27 @@
+HUMANITÉS NUMÉRIQUES — ATELIER DU CHAPITRE 2
+
+Une voix, plusieurs couches d’annotation. Travail en binômes.
+
+L’origine du kong Hulup — Pangloss / COCOON, corpus iaai.
+Voix : Taï Waheo. Recherche et dépôt : Françoise Ozanne-Rivierre. Traduction : Wadawa Hnyigootr.
+© Françoise Ozanne-Rivierre ; LACITO.
+Son : https://doi.org/10.24397/pangloss-0000283 — CC BY-NC-ND 2.5.
+Annotations : https://doi.org/10.24397/pangloss-0000282 — CC BY-NC-SA 2.5.
+Voir pangloss/NOTICE.txt pour les URL des licences et la provenance complète.
+
+Distinguer les annotations publiées de l’archive et votre travail. Le dossier fournit les sources de l’exercice, sans corrigé.
+
+1. Documenter la langue, les contributeurs, les fichiers et leurs conditions de réutilisation.
+2. Choisir un passage hors S1 et S2 (déjà étudiés dans le cours). Écouter avant de consulter le découpage archivé ; proposer trois unités successives et expliquer les frontières.
+3. Ajouter une piste Locuteur ; distinguer votre identifiant de voix du nom donné par la notice.
+4. Examiner les annotations archivées. Reprendre la transcription en citant son segment source ; comparer les frontières. Ajouter une traduction citée sur une piste distincte et un commentaire sur une incertitude.
+5. Relever deux couples forme–glose dans le carnet ; préciser leur unité d’origine. Ne pas inventer d’analyse du iaai ni de minutage des mots.
+6. Comparer les observations, exporter et rouvrir le dossier. Présenter un segment, ses couches et une limite de l’analyse.
+
+Livrables : carnet, annotations CSV ou EAF, sauvegarde JSON si vous utilisez le site. Temps en secondes dans le CSV, millisecondes dans l’EAF. L’EAF exporte des pistes temporelles indépendantes ; il ne reproduit pas la hiérarchie du XML Pangloss. Pour l’ouvrir dans ELAN, placer l’EAF dans le même dossier que 144254_HULUP_44k.mp3, sans renommer le média. Dans le ZIP, ce dernier est dans pangloss/.
+
+Alternative accessible sans écoute : examiner pangloss/transcription.txt ou le XML. Choisir un segment hors S1 et S2 ; distinguer temps, transcription, unités W, gloses et traduction. Renseigner le carnet et préciser ce que l’absence d’écoute empêche de vérifier. Aucun export d’annotations temporelles personnelles n’est demandé.
+
+Critères : source et passages identifiables ; fonctions des couches distinctes ; reprises attribuées, conventions et incertitudes explicites.
+
+Les sauvegardes de cet atelier sont liées à la source pangloss-hulup (version 2). Les anciennes sauvegardes de l’exercice fictif ne peuvent pas y être importées : leurs temps renvoient à un autre média.

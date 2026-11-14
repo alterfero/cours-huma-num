@@ -1,0 +1,95 @@
+{
+  "@context": "https://anaite.upf.pf/api-context",
+  "@id": "https://anaite.upf.pf/api/media/51044",
+  "@type": "o:Media",
+  "o:id": 51044,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "https://anaite.upf.pf/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": null,
+  "o:resource_template": null,
+  "o:thumbnail": null,
+  "o:title": null,
+  "thumbnail_display_urls": {
+    "large": "https://anaite.upf.pf/files/large/2849409f15b9d7d940640c461c923ad088d43564.jpg",
+    "medium": "https://anaite.upf.pf/files/medium/2849409f15b9d7d940640c461c923ad088d43564.jpg",
+    "square": "https://anaite.upf.pf/files/square/2849409f15b9d7d940640c461c923ad088d43564.jpg"
+  },
+  "o:created": {
+    "@value": "2024-09-10T02:29:25+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2024-09-10T02:29:25+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:ingester": "url",
+  "o:renderer": "file",
+  "o:item": {
+    "@id": "https://anaite.upf.pf/api/items/50917",
+    "o:id": 50917
+  },
+  "o:source": "Z14-003-00846-r.jpg",
+  "o:media_type": "image/jpeg",
+  "o:sha256": "8eff9f9399d57d258ca4d2647288f486f7f588ca3f81a1b9b4d6a4ddc452fcae",
+  "o:size": 310544,
+  "o:filename": "2849409f15b9d7d940640c461c923ad088d43564.jpg",
+  "o:lang": null,
+  "o:alt_text": null,
+  "o:original_url": "https://anaite.upf.pf/files/original/2849409f15b9d7d940640c461c923ad088d43564.jpg",
+  "o:thumbnail_urls": {
+    "large": "https://anaite.upf.pf/files/large/2849409f15b9d7d940640c461c923ad088d43564.jpg",
+    "medium": "https://anaite.upf.pf/files/medium/2849409f15b9d7d940640c461c923ad088d43564.jpg",
+    "square": "https://anaite.upf.pf/files/square/2849409f15b9d7d940640c461c923ad088d43564.jpg"
+  },
+  "data": {
+    "dimensions": {
+      "original": {
+        "width": 1757,
+        "height": 1158
+      },
+      "large": {
+        "width": 800,
+        "height": 527
+      },
+      "medium": {
+        "width": 200,
+        "height": 132
+      },
+      "square": {
+        "width": 200,
+        "height": 200
+      }
+    },
+    "tile": {
+      "deepzoom": {
+        "tile_type": "deepzoom",
+        "metadata_path": "2849409f15b9d7d940640c461c923ad088d43564.dzi",
+        "media_path": "2849409f15b9d7d940640c461c923ad088d43564_files",
+        "url_base": "http://v-omekas.upf.pf/files/tile",
+        "path_base": "/home/webdev/WWW/omekas/files/tile",
+        "url_query": "",
+        "size": 256,
+        "overlap": 0,
+        "total": null,
+        "source": {
+          "width": 1757,
+          "height": 1158
+        },
+        "format": "jpg"
+      }
+    }
+  },
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Z14-003-00846-r.jpg"
+    }
+  ],
+  "o-module-group:group": []
+}

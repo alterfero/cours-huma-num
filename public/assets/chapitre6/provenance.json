@@ -1,0 +1,57 @@
+{
+  "checked": "2026-11-13",
+  "illustrations": [
+    {
+      "id": "cardboard",
+      "file": "cardboard.jpg",
+      "title": "Cardboard : le téléphone fournit l’écran",
+      "alt": "Photographie d’une visionneuse Google Cardboard assemblée, en carton, avec ses deux lentilles.",
+      "credit": "Runner1928, 2014",
+      "source": "https://commons.wikimedia.org/wiki/File:Google_Cardboard_assembled.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "change": "Réduction à 1 200 pixels, sans recadrage.",
+      "bytes": 400633,
+      "sha256": "46696c4f664f1f89e87fb8c151b87a4b5ada709b2b4728c4f61c40d7234c4375"
+    },
+    {
+      "id": "vive",
+      "file": "htc-vive.jpg",
+      "title": "HTC Vive : un casque suivi dans l’espace",
+      "alt": "Photographie d’un casque HTC Vive noir ; ses capteurs sont visibles sur la face avant.",
+      "credit": "Mauricio Pesce, 2015",
+      "source": "https://commons.wikimedia.org/wiki/File:HTC_Vive.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "change": "Réduction à 1 200 pixels, sans recadrage. Modèle historique illustratif.",
+      "bytes": 152309,
+      "sha256": "eabdb5442f6b12b507eda8b4384d44c459c7145b4b36e25ff87d54d849cc7526"
+    },
+    {
+      "id": "glossopticon",
+      "file": "glossopticon.jpg",
+      "title": "Glossopticon : écouter une archive en se déplaçant",
+      "alt": "Figure publiée de Glossopticon : une utilisatrice avec casque et manettes, sur une vue du Pacifique montrant des colonnes lumineuses et des dômes.",
+      "credit": "Andrew Burrell, 2023, figure 1, p. 3",
+      "source": "https://opus.lib.uts.edu.au/handle/10453/175954",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "change": "Image extraite du PDF publié, sans retouche. Composition publiée montrant la personne et l’environnement virtuel.",
+      "bytes": 273603,
+      "sha256": "c06c53ad0e88c085100c878106d81093eefca7127f7c90ac09c52dab8618151d"
+    },
+    {
+      "id": "augment",
+      "file": "ar-augment.jpg",
+      "title": "Augment : prévisualiser un objet dans une pièce",
+      "alt": "Illustration publiée du service Augment : une tablette montre un canapé virtuel placé dans la pièce visible derrière elle.",
+      "credit": "ChristinaC., 2016",
+      "source": "https://commons.wikimedia.org/wiki/File:Augmented_Reality_for_eCommerce.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "change": "Fichier original inchangé. Visuel promotionnel d’une application réelle, pas photographie d’un objet physiquement présent.",
+      "bytes": 56367,
+      "sha256": "baeb69b4d2dcbb22e662ac29ed5956216e24e4ee31932644ce589c29a7d30625"
+    }
+  ]
+}

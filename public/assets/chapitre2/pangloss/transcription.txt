@@ -1,0 +1,148 @@
+L’origine du kong Hulup — Pangloss / COCOON, corpus iaai.
+Voix : Taï Waheo. Recherche et dépôt : Françoise Ozanne-Rivierre. Traduction : Wadawa Hnyigootr.
+© Françoise Ozanne-Rivierre ; LACITO.
+Son : https://doi.org/10.24397/pangloss-0000283 — CC BY-NC-ND 2.5.
+Annotations : https://doi.org/10.24397/pangloss-0000282 — CC BY-NC-SA 2.5.
+Voir pangloss/NOTICE.txt pour les URL des licences et la provenance complète.
+
+VUE TEXTUELLE DES ANNOTATIONS ARCHIVÉES
+Conversion de présentation du XML, sans réécriture des formes ou gloses.
+Les unités W n’ont pas de minutage propre. Les gloses sont séparées par |.
+
+S1 — HULUPs1 — 0.02–2.42 s
+Transcription : Bongon kong Hulup 
+Unités W : Bongon | kong | Hulup
+Gloses : histoire de | dieu | Hulup
+Traduction : Histoire du Kong Hulup.
+
+S2 — HULUPs2 — 2.42–5.64 s
+Transcription : E hu ke li xop liamekeiny Kanala. 
+Unités W : E | hu | ke | li | xop | liamekeiny | Kanala
+Gloses : il | y a | indéfini | les2 | hommes | les2 frères | Kanala
+Traduction : Il y avait deux frères à Canala
+
+S3 — HULUPs3 — 5.64–8.1799 s
+Transcription : E hu anyidru kong edhöö hnyi ban bucen. 
+Unités W : E | hu | anyidru | kong | edhöö | hnyi | ban | bucen
+Gloses : il | y a | leur | dieu | là-haut | dans | dessus | montagne
+Traduction : qui avaient leur dieu, là-haut, sur la montagne.
+
+S4 — HULUPs4 — 8.1799–11.22 s
+Transcription : M'ödru waahe ka thuutr eû hnyi jee hme. 
+Unités W : M'ödru | waahe | ka | thuutr | eû | hnyi | jee | hme
+Gloses : et-ils2 | s'en aller | pour | pêcher | là-bas (vers la mer) | dans | les | trous du récif
+Traduction : Un jour, ils allèrent pêcher à marée basse.
+
+S5 — HULUPs5 — 11.22–14.9001 s
+Transcription : Kene ödru û hnyi jee hme, ke ame hlâ meic edhöö hnyi ban bucen 
+Unités W : Kene | ödru | û | hnyi | jee | hme | ke | ame | hlâ | meic | edhöö | hnyi | ban | bucen
+Gloses : puis | eux2 | là-bas (vers la mer) | dans |  les | trous du récif | et | il+procès | brûler | feu | làhaut | dans | dessus | montagne
+Traduction : Or, pendant qu'ils pêchaient dans les trous du récif, voilà que la montagne s'embrasa
+
+S6 — HULUPs6 — 14.9001–16.32 s
+Transcription : me hlâ thidhö kong. 
+Unités W : me | hlâ | thidhö | kong
+Gloses : et | brûler | alors | dieu
+Traduction : et que leur dieu prit feu.
+
+S7 — HULUPs7 — 16.32–21.7 s
+Transcription : Haba li xop me ödrumwe wâ kong aa hlâ dhö m'ödru he thidhö hoot ai. 
+Unités W : Haba | li | xop | me | ödrumwe | wâ | kong | aa | hlâ | dhö | m'ödru | he | thidhö | hoot | ai
+Gloses : quant à | les2 | hommes | alors | ils2+procès | voir | dieu | il+accompli | brûler | alors | et-ils2 | aller | alors | terre | vers
+Traduction : Voyant leur dieu en flamme, les deux hommes se hâtèrent de regagner la terre ferme.
+
+S8 — HULUPs8 — 21.7–24.8801 s
+Transcription : Ödru oo edhöö hnyi ban bucen ke aa keec ut kong. 
+Unités W : Ödru | oo | edhöö | hnyi | ban | bucen | ke | aa | keec | ut | kong
+Gloses : ils2 | arriver | là-haut | dans | dessus | montagne | et | il+accompli | fuir | révolu | dieu
+Traduction : Lorsqu'ils arrivèrent en haut de la montagne, leur dieu avait déjà fui.
+
+S9 — HULUPs9 — 24.8801–27.96 s
+Transcription : M'ödru he thibut hotoon anyidru kong. 
+Unités W : M'ödru | he | thibut | hotoon | anyidru | kong
+Gloses : et-ils2 | aller | révolu | derrière | leur(duel) | dieu
+Traduction : Ils se lancèrent à sa poursuite.
+
+S10 — HULUPs10 — 27.96–32.9801 s
+Transcription : E oo thibut kong eû hnyi wasaû me ka he but kong. 
+Unités W : E | oo | thibut | kong | eû | hnyi | wasaû | me | ka | he | but | kong
+Gloses : il | arriver | révolu | dieu | là-bas | dans | passe | et | assertif | aller | révolu | dieu
+Traduction : Leur dieu gagna la passe
+
+S11 — HULUPs11 — 32.9801–36.64 s
+Transcription : Haba li xop me ödrumwe ka he thibut hotoon. 
+Unités W : Haba | li | xop | me | ödrumwe | ka | he | thibut | hotoon
+Gloses : quant à | les2 | hommes | alors | ils2+procès | assertif | aller | révolu | derrière lui
+Traduction : et les deux hommes le suivirent.
+
+S12 — HULUPs12 — 36.64–42.8999 s
+Transcription : Haba haten köödru hnyi litr me ûnya meic ame hlâ hnyimëködru, kene ka oo but Iaai. 
+Unités W : Haba | haten | köödru | hnyi | litr | me | ûnya | meic | ame | hlâ | hnyimëködru | kene | ka | oo | but | Iaai
+Gloses : quant à | signe | pour-eux2 | dans | nuit | alors | c'est | feu | il+procès | brûler | face-à eux2 | ensuite | pour | arriver | révolu | Ouvéa
+Traduction : Leur repère dans la nuit, c'était ce feu, en face d'eux, qui les mena jusqu'à Ouvéa.
+
+S13 — HULUPs13 — 42.8999–48.12 s
+Transcription : Me e ölö dhö kong eû Hwakaiö me he tootrö jimeû hnyi hnyei 
+Unités W : Me | e | ölö | dhö | kong | eû | Hwakaiö | me | he | tootrö | jimeû | hnyi | hnyei
+Gloses : et | il | monter | alors | dieu | là-bas | Hwakaiö | et | aller | de plus en plus | venant de là | dans | pays
+Traduction : Leur dieu aborda d'abord à Hwakaiö [c'est à dire à Mouli], avant de pénétrer plus avant dans le pays.
+
+S14 — HULUPs14 — 48.12–51.68 s
+Transcription : me ebë dhö dok ame wâ ae ûcû amaa laba hnyin. 
+Unités W : me | ebë | dhö | dok | ame | wâ | ae | ûcû | amaa | laba | hnyin
+Gloses : et | il n'y a pas | alors | endroit | il+procès | voir | qui | convenable | il+futur | rester | dedans
+Traduction : Mais, là, il ne trouva aucune place où s'installer.
+
+S15 — HULUPs15 — 51.68–55.0599 s
+Transcription : Haba li xop me ödrumwe ka he thibut hotoon. 
+Unités W : Haba | li | xop | me | ödrumwe | ka | he | thibut | hotoon
+Gloses : quant à | les2 | hommes | alors | ils2+procès | assertif | aller | révolu | derrière-lui
+Traduction : Les deux hommes le suivaient toujours.
+
+S16 — HULUPs16 — 55.0599–59.5001 s
+Transcription : ödrin he but ka oo wasaû m'ödrin oo but Lekiny 
+Unités W : ödrin | he | but | ka | oo | wasaû | m'ödrin | oo | but | Lekiny
+Gloses : ils | aller | révolu | pour | arriver | passe | et+ils | arriver | révolu | Lekiny
+Traduction : Ils continuèrent alors jusqu'à Lekiny.
+
+S17 — HULUPs17 — 59.5001–63.1401 s
+Transcription : me ame heleü hnen me bë dok amaa laba hnyin; 
+Unités W : me | ame | heleü | hnen | me | bë | dok | amaa | laba | hnyin
+Gloses : et | il+procès | chercher | place-à lui | et | ne pas y avoir | endroit | il+futur | rester | dedans
+Traduction : Mais là encore, il eut beau chercher, il ne trouva aucune place convenable.
+
+S18 — HULUPs18 — 63.1401–66.08 s
+Transcription : me he but ka oo Vëkatr me ebë hnen, 
+Unités W : me | he | but | ka | oo | Vëkatr | me | ebë | hnen
+Gloses : et | aller | révolu | pour | arriver | Vëkatr | et | il n'y a pas | place-à lui
+Traduction : Il gagna Vëkatr mais, là encore, il n'y avait pas de place pour lui.
+
+S19 — HULUPs19 — 66.08–69.1799 s
+Transcription : me he but me oo but Hânyââû; 
+Unités W : me | he | but | me | oo | but | Hânyââû
+Gloses : et | aller | révolu | et | arriver | révolu | Hânyââû
+Traduction : Ils gagnèrent enfin Hânyââû
+
+S20 — HULUPs20 — 69.1799–74.36 s
+Transcription : me haba ke at hnyin li xop me ölö thidhö ka hnyi ban ûöö. 
+Unités W : me | haba | ke | at | hnyin | li | xop | me | ölö | thidhö | ka | hnyi | ban | ûöö
+Gloses : et | quant à | indéfini | homme | dedans | les2 | hommes | alors | monter | alors | vers | dans | dessus | arbre
+Traduction : et là, un des deux hommes grimpa sur un arbre.
+
+S21 — HULUPs21 — 74.36–78.5 s
+Transcription : Ame kaa he ka ta ejii hon kânâ me ame lung me haingen thidhö: 
+Unités W : Ame | kaa | he | ka | ta | ejii | hon | kânâ | me | ame | lung | me | haingen | thidhö
+Gloses : il+procès | quand | aller | pour | tomber | en bas | sur | terre | alors | il+procès | tonner | et | dire | alors
+Traduction : Lorsqu'il se laissa tomber à terre, le tonnerre éclata et il déclara :
+
+S22 — HULUPs22 — 78.5–80.92 s
+Transcription : "Wale ju ang dok amaa laba hnyin kong". 
+Unités W : Wale | ju | ang | dok | amaa | laba | hnyin | kong
+Gloses : voilà | dès lors | ici | endroit | il+futur | rester | dedans | dieu
+Traduction : "Voilà l'endroit où le dieu doit rester".
+
+S23 — HULUPs23 — 80.92–86.1799 s
+Transcription : M'ödru laba thiju ee me anyidru kong ka oo walaang ang. 
+Unités W : M'ödru | laba | thiju | ee | me | anyidru | kong | ka | oo | walaang | ang
+Gloses : et-ils2 | rester | dès lors | là | avec | leur (à 2) | dieu | pour | arriver | voici | maintenant
+Traduction : Et c'est donc là que leur dieu demeure jusqu'à aujourd'hui.

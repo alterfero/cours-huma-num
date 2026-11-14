@@ -1,0 +1,70 @@
+ARCHIVES DU CHAPITRE 4 — PROVENANCE ET RÉUTILISATION
+
+Archives réelles de Polynésie française, conservées au SPAA et diffusées par Ana’ite (UPF). Chaque dossier réunit une page de journal et les deux faces d’une carte postale pour l’exercice : ce rapprochement pédagogique ne prouve aucun lien historique entre ces documents. Les notices, les transformations et les commentaires du cours restent distincts des sources.
+
+SPAA, Polynésie française / Ana’ite, Université de la Polynésie française. Diffusion CC BY-NC-SA selon les notices, sans version précisée. Cartes postales : fonds GUTZWILLER (Fi14), édition G. Spitz.
+Usage pédagogique non commercial. Attribution et partage des adaptations sous les mêmes conditions. Aucune version de licence n’est inventée. Consulter les notices pour les conditions de réutilisation.
+
+Les suffixes r/v des fichiers d’origine sont conservés. Le cours utilise les termes « face illustrée » et « face correspondance ». Les JPEG des cartes sont copiés sans réencodage, avec leurs marques d’archives. Les JPEG des journaux sont des rendus de la première vue des PDF, sans correction du texte. Les PDF originaux sont conservés sous sources/.
+
+Les graphies du journal de 1856 ne sont pas modernisées. La sortie OCR n’est ni une transcription vérifiée ni une traduction. Modèle français appliqué à du tahitien : toute évaluation linguistique exige un modèle approprié et une référence vérifiée.
+
+COURS D4
+
+D4-P01 — Te Vea no Tahiti · page du 3 janvier 1856
+Fichier : vea-1856-01-03-p1.jpg (1600 × 2330 pixels).
+Référence : SPAA_ Vea No Tahiti_18560103_01.pdf, vue PDF 1
+Datation : 3 janvier 1856 ; numérisation : 2019
+Notice : https://anaite.upf.pf/s/anaite/item/51788
+Description accessible rédigée pour le cours : Première page du journal Te Vea no Tahiti du 3 janvier 1856 : titre en grandes capitales, deux colonnes en tahitien, traits horizontaux et caractères parfois dégradés.
+Transformations : Première vue du PDF rendue en JPEG, largeur 1 600 pixels ; page entière, sans correction du texte.
+
+D4-P02 — Papeete · face illustrée
+Fichier : Z14-003-00846-v.jpg (1669 × 1074 pixels).
+Référence : Z14-003-00846, fichier d’origine -v
+Datation : Édition estimée : 1918–1924 ; numérisation : 2017
+Notice : https://anaite.upf.pf/s/anaite/item/50917
+Description accessible rédigée pour le cours : Carte postale colorisée : port de Papeete, voiliers dans la rade, toits et clocher au premier plan ; marque d’archives en bas à droite.
+Transformations : JPEG d’Ana’ite reproduit à l’identique ; marques d’archives conservées.
+
+D4-P03 — Papeete · face correspondance
+Fichier : Z14-003-00846-r.jpg (1757 × 1158 pixels).
+Référence : Z14-003-00846, fichier d’origine -r
+Datation : Oblitération du 3 février 1924 selon la notice ; numérisation : 2017
+Notice : https://anaite.upf.pf/s/anaite/item/50917
+Description accessible rédigée pour le cours : Autre face de la carte de Papeete : écriture manuscrite bleue, adresse, timbre rouge, oblitérations et tampon du fonds Gutzwiller.
+Transformations : JPEG d’Ana’ite reproduit à l’identique ; marques d’archives conservées.
+
+ATELIER A4
+
+A4-P01 — Te Vea no Tahiti · page du 10 janvier 1856
+Fichier : vea-1856-01-10-p1.jpg (1600 × 2458 pixels).
+Référence : SPAA_ Vea No Tahiti_18560110_02.pdf, vue PDF 1
+Datation : 10 janvier 1856 ; numérisation : 2019
+Notice : https://anaite.upf.pf/s/anaite/item/51788
+Description accessible rédigée pour le cours : Première page du journal Te Vea no Tahiti du 10 janvier 1856 : en-tête, deux colonnes en tahitien et plusieurs rubriques séparées par des filets.
+Transformations : Première vue du PDF rendue en JPEG, largeur 1 600 pixels ; page entière, sans correction du texte.
+
+A4-P02 — Moorea · face illustrée
+Fichier : Z14-003-00770-v.jpg (1694 × 1094 pixels).
+Référence : Z14-003-00770, fichier d’origine -v
+Datation : Édition estimée : vers 1914–1920 ; numérisation : 2017
+Notice : https://anaite.upf.pf/s/anaite/item/49989
+Description accessible rédigée pour le cours : Carte postale illustrée d’un coucher de soleil sur Moorea, vue depuis Tahiti, avec légende imprimée et marque d’archives.
+Transformations : JPEG d’Ana’ite reproduit à l’identique, déjà présenté au chapitre 1.
+
+A4-P03 — Moorea · face correspondance
+Fichier : Z14-003-00770-r.jpg (1779 × 1172 pixels).
+Référence : Z14-003-00770, fichier d’origine -r
+Datation : Correspondance : 19 janvier 1929 ; numérisation : 2017
+Notice : https://anaite.upf.pf/s/anaite/item/49989
+Description accessible rédigée pour le cours : Autre face de la carte de Moorea : correspondance manuscrite datée de Papeete, adresse, timbre et marques postales.
+Transformations : JPEG d’Ana’ite reproduit à l’identique, déjà présenté au chapitre 1.
+
+Téléchargement des notices Papeete / Te Vea et des fichiers : 10 novembre 2026, Pacific/Tahiti. La notice et les JPEG de Moorea proviennent de la copie du chapitre 1 téléchargée le 6 novembre 2026.
+
+Dérivés d’expérience : D4-P01-petit = réduction à 240 × 350 pixels ; D4-P01-incline = rotation antihoraire de 9°, sans découpe, avec marges blanches. Images de consultation à largeur 600 pixels : rééchantillonnage Lanczos. Les transformations ne décrivent pas un état matériel de l’original.
+
+Préparation : Poppler pdftoppm, Python/Pillow, sips (conversion du JPEG incliné), Tesseract. Scripts : scripts/generate-chapter4-assets.mjs et scripts/package-chapter4.mjs. Les empreintes et les notices structurées figurent dans provenance.json ; les paramètres OCR et les empreintes des entrées dans ocr.json. Les instantanés publics d’Ana’ite sont conservés sous sources/.
+
+Les manifestes IIIF sont construits par le cours, pas par Ana’ite. Journal et carte sont rapprochés pour l’exercice, sans provenance commune établie au-delà de l’institution de conservation. Les annotations sont celles des étudiants.

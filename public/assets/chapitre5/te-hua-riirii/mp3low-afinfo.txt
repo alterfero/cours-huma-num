@@ -1,0 +1,15 @@
+File:           audio/archive/03-Te Hua Riirii_8kbps.mp3
+File type ID:   MPG3
+Num Tracks:     1
+----
+Data format:     1 ch,  24000 Hz, .mp3 (0x00000000) 0 bits/channel, 0 bytes/packet, 576 frames/packet, 0 bytes/frame
+                no channel layout.
+estimated duration: 47.712000 sec
+audio bytes: 47712
+audio packets: 1988
+bit rate: 8000 bits per second
+packet size upper bound: 488
+maximum packet size: 24
+audio data file offset: 388
+optimized
+----

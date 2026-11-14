@@ -1,0 +1,37 @@
+L’ORIGINE DU KONG HULUP — collection Pangloss / archive COCOON
+Langue : iaai (iai). Lieu indiqué : Ouvéa, Nouvelle-Calédonie.
+Locuteur : Taï Waheo. Chercheuse et déposante : Françoise Ozanne-Rivierre.
+Traducteur crédité dans les notices OLAC : Wadawa Hnyigootr.
+Copyright (c) Ozanne-Rivierre, Françoise. Éditeur : LACITO.
+
+Audio : https://doi.org/10.24397/pangloss-0000283
+Annotations : https://doi.org/10.24397/pangloss-0000282
+Page du corpus : https://pangloss.cnrs.fr/corpus/show?oai_primary=cocoon-e3f8c82b-7513-3687-a8e0-ffad68a365fa&corpus=Iaai&oai_secondary=cocoon-12d6759f-7892-3050-a42f-1aaad448b8d2
+
+Fichiers téléchargés le 9 novembre 2026, conservés sans modification :
+- 144254_HULUP_44k.mp3 : https://cocoon.huma-num.fr/data/ozanne-rivierre/144254_HULUP_44k.mp3
+  Audio intégral, CC BY-NC-ND 2.5 : https://creativecommons.org/licenses/by-nc-nd/2.5/
+- crdo-IAI_HULUP.xml : https://cocoon.huma-num.fr/data/ozanne-rivierre/masters/crdo-IAI_HULUP.xml
+  Annotations, CC BY-NC-SA 2.5 : https://creativecommons.org/licenses/by-nc-sa/2.5/
+- media-olac.xml et annotation-olac.xml : notices OAI-PMH COCOON (metadataPrefix=olac), avec les identifiants de la page ci-dessus.
+Les licences diffèrent entre le son et les annotations : voir les notices de chaque ressource.
+
+Le MP3 est la copie de consultation publiée par l’archive, pas le master WAV.
+Le WAV proposé par la source est à https://cocoon.huma-num.fr/data/ozanne-rivierre/masters/144254.wav
+Aucun montage, découpage ni traitement du son n’est distribué par ce cours.
+Les boutons du lecteur déplacent simplement la lecture dans le fichier intégral.
+
+La vue pédagogique data.json et public/pangloss-data.js est extraite du XML :
+23 segments S, 229 unités W ; formes et gloses conservées sans réécriture.
+Les temps viennent des éléments AUDIO de chaque S. Les W n’ont pas de minutage.
+Les libellés S1…S23 de l’interface correspondent aux identifiants XML HULUPs1…HULUPs23.
+La conversion de présentation des annotations est diffusée sous CC BY-NC-SA 2.5.
+Les empreintes SHA-256 des sources sont consignées dans data.json.
+La durée est calculée à partir du nombre de trames valides signalé par afinfo.
+La frise du cours représente les segments du XML, pas l’amplitude du son.
+
+La notice indique 1948 dans le champ de création / date d’enregistrement affichée.
+Cette valeur est citée comme métadonnée de la source ; elle ne date ni la numérisation,
+ni l’annotation. La notice décrit une lecture de texte par Taï Waheo.
+Le XML ne contient pas de piste de diarisation ni de segmentation en morphèmes M.
+Les commentaires et questions du cours sont séparés des annotations archivées.

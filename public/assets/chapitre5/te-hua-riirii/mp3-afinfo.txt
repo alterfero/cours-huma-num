@@ -1,0 +1,16 @@
+File:           audio/archive/03-Te Hua Riirii.mp3
+File type ID:   MPG3
+Num Tracks:     1
+----
+Data format:     2 ch,  44100 Hz, .mp3 (0x00000000) 0 bits/channel, 0 bytes/packet, 1152 frames/packet, 0 bytes/frame
+                no channel layout.
+estimated duration: 47.595102 sec
+audio bytes: 1182119
+audio packets: 1822
+bit rate: 198695 bits per second
+packet size upper bound: 1052
+maximum packet size: 1044
+audio data file offset: 123483
+optimized
+audio 2096928 valid frames + 576 priming + 1440 remainder = 2098944
+----

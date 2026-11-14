@@ -1,0 +1,67 @@
+{
+  "@context": "https://anaite.upf.pf/api-context",
+  "@id": "https://anaite.upf.pf/api/media/52284",
+  "@type": "o:Media",
+  "o:id": 52284,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "https://anaite.upf.pf/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": null,
+  "o:resource_template": null,
+  "o:thumbnail": null,
+  "o:title": null,
+  "thumbnail_display_urls": {
+    "large": "https://anaite.upf.pf/files/large/16b34507c49b8d1d7ec51c3b6396f012e5045038.jpg",
+    "medium": "https://anaite.upf.pf/files/medium/16b34507c49b8d1d7ec51c3b6396f012e5045038.jpg",
+    "square": "https://anaite.upf.pf/files/square/16b34507c49b8d1d7ec51c3b6396f012e5045038.jpg"
+  },
+  "o:created": {
+    "@value": "2024-09-10T05:04:59+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2025-09-29T21:13:53+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:ingester": "url",
+  "o:renderer": "file",
+  "o:item": {
+    "@id": "https://anaite.upf.pf/api/items/51788",
+    "o:id": 51788
+  },
+  "o:source": "SPAA_ Vea No Tahiti_18560110_02.pdf",
+  "o:media_type": "application/pdf",
+  "o:sha256": "bb7986d127915ecb6b0eb2ccf02b6efdc061e757852eea0624de641f4d77dad0",
+  "o:size": 4009826,
+  "o:filename": "16b34507c49b8d1d7ec51c3b6396f012e5045038.pdf",
+  "o:lang": null,
+  "o:alt_text": null,
+  "o:original_url": "https://anaite.upf.pf/files/original/16b34507c49b8d1d7ec51c3b6396f012e5045038.pdf",
+  "o:thumbnail_urls": {
+    "large": "https://anaite.upf.pf/files/large/16b34507c49b8d1d7ec51c3b6396f012e5045038.jpg",
+    "medium": "https://anaite.upf.pf/files/medium/16b34507c49b8d1d7ec51c3b6396f012e5045038.jpg",
+    "square": "https://anaite.upf.pf/files/square/16b34507c49b8d1d7ec51c3b6396f012e5045038.jpg"
+  },
+  "data": [],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "SPAA_ Vea No Tahiti_18560110_02.pdf"
+    }
+  ],
+  "extracttext:extracted_text": [
+    {
+      "type": "literal",
+      "property_id": 235,
+      "property_label": "extracted text",
+      "is_public": true,
+      "@value": "\f"
+    }
+  ],
+  "o-module-group:group": []
+}

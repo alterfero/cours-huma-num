@@ -1,0 +1,36 @@
+HUMANITÉS NUMÉRIQUES — ATELIER DU CHAPITRE 1
+Récits, lieux et mémoires d’un territoire
+
+FONDS ENTIÈREMENT FICTIF
+Les documents, dialogues et situations de ce dossier ont été créés pour un exercice pédagogique.
+Ils ne représentent aucun lieu réel et ne rapportent aucun témoignage ou savoir traditionnel authentique.
+
+Les fichiers texte délimitent explicitement le début et la fin du document fictif.
+Les notices de présentation sont regroupées dans notices-des-pieces.md, hors des documents.
+Les consignes figurent dans ce fichier et dans fiche-carnet.md.
+
+Travail en binômes.
+- examiner les six pièces.
+- choisir une commande et un public.
+- décrire une source.
+- justifier une interprétation et une prochaine action.
+- restituer et discuter avec un autre groupe.
+
+Commandes possibles :
+- Musée : préparer une exposition.
+- Mairie : concevoir un parcours de mémoire.
+- Documentation : construire un catalogue.
+- Université : constituer un corpus pédagogique.
+
+Livrable : une notice et une décision justifiée. Utilisez le fichier fiche-carnet.md.
+Vous pouvez aussi compléter et exporter le carnet directement dans le site du cours.
+
+Lors de la restitution, présentez votre source, une incertitude importante et l’action que vous proposez. Un autre groupe formule une objection ou une question.
+
+Les six pièces :
+FE-01 carnet.txt
+FE-02 entretien.txt
+FE-03 debarcadere.svg
+FE-04 inventaire.csv
+FE-05 note-collecte.txt
+FE-06 acces.txt

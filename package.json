@@ -1,0 +1,22 @@
+{
+  "name": "humanites-numeriques-cours",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cours interactif de master — humanités numériques",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node --test",
+    "check": "node --check public/app.js && node --check public/content.js && node --check public/labs.js && node --check public/chapter2.js && node --check public/chapter2-content.js && node --check public/annotation.js && node --check server.mjs && node --check public/chapter3.js && node --check public/chapter3-content.js && node --check public/corpus.js && node --check public/marawa.js && node --check public/chapter4.js && node --check public/chapter4-content.js && node --check public/images.js && node --check public/chapter5.js && node --check public/chapter5-content.js && node --check public/chapter5-media.js && node --check public/sound.js && node --check public/pangloss.js && node --check public/pangloss-data.js && node --check public/chapter6.js && node --check public/chapter6-content.js && node --check public/video.js && node --check public/chapter7.js && node --check public/chapter8.js && node --check public/chapter9.js",
+    "package:workshop": "node scripts/package-workshop.mjs",
+    "package:workshop2": "node scripts/package-chapter2.mjs",
+    "package:workshop3": "node scripts/package-chapter3.mjs",
+    "package:workshop4": "node scripts/package-chapter4.mjs",
+    "package:workshop5": "node scripts/package-chapter5.mjs",
+    "package:workshop6": "node scripts/package-chapter6.mjs"
+  }
+}

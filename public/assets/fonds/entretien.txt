@@ -1,0 +1,10 @@
+FE-02 — Transcription d’un entretien
+Statut : document fictif créé pour l’exercice.
+La notice de présentation figure dans notices-des-pieces.md.
+
+--- DÉBUT DU DOCUMENT ---
+Enquêtrice : À quelle période faites-vous référence quand vous dites « autrefois » ?
+Personne interrogée : Avant mon départ pour mes études… Je ne sais plus l’année. On attendait près du grand arbre. Aujourd’hui, on se retrouve sous l’abri.
+Enquêtrice : Est-ce que tout le monde attendait au même endroit ?
+Personne interrogée : Je ne peux parler que de ce que je faisais, moi.
+--- FIN DU DOCUMENT ---

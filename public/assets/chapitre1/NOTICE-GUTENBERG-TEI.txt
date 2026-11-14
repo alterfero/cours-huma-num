@@ -1,0 +1,23 @@
+LOGO PROJECT GUTENBERG ET EXEMPLE TEI
+Consultation : 9 novembre 2026 (Pacific/Tahiti).
+
+Logo officiel de Project Gutenberg
+Source : https://www.gutenberg.org/
+Image : https://www.gutenberg.org/gutenberg/pg-logo-new.jpg
+Fichier local : project-gutenberg-logo.jpg (576 x 360 pixels).
+Reproduction intégrale du logo actuel, sans modification, pour identifier
+le projet historique ; il ne s’agit pas d’une image datant de 1971.
+Le nom et le logo restent ceux de Project Gutenberg ; aucune licence
+Creative Commons ou déclaration de domaine public n’est revendiquée ici.
+Lien vers le projet intégré au logo.
+
+Exemple d’encodage TEI
+Crédit : TEI Consortium, Guidelines P5, élément persName.
+Source : https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-persName.html
+Version consultée : 4.12.0, 28 juillet 2026.
+L’exemple contient Edward George Bulwer-Lytton, Baron Lytton of Knebworth.
+Le visuel reproduit les deux prénoms et le nom avec leurs balises ; le titre
+de noblesse et le lieu sont omis. Il s’agit d’un extrait, pas d’un document
+TEI complet. La mise en page et les couleurs sont propres au cours.
+Fichiers : tei-persname.svg (image vectorielle), tei-persname.xml (fragment
+réutilisable avec déclaration de l’espace de noms TEI).

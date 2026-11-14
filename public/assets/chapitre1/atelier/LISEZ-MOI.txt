@@ -1,0 +1,61 @@
+ATELIER 1 — ENQUÊTER SUR UNE IMAGE
+
+Une seule pièce documentaire : Takurua_Parent_2025_Rapa_1.jpg
+Photo : Takurua Parent / DIG4EL · © 2025 · CC BY-NC-ND 4.0.
+
+1. Conservez le JPEG original ; travaillez à partir d’une copie.
+2. Observez l’image et relevez la mention en bas à droite.
+3. Examinez les métadonnées EXIF, IPTC et XMP intégrées au fichier avec un
+   lecteur adapté. Suivez le guide Mac ou Windows fourni ci-dessous.
+4. Confrontez les indices de l’image, du nom de fichier et des métadonnées.
+   Recherchez des sources complémentaires pour vérifier vos hypothèses.
+5. Remplissez fiche-carnet.md. Pour chaque affirmation, citez le détail visible,
+   le nom et la valeur du champ de métadonnées ou la source externe consultée
+   (avec date de consultation). Signalez ce qui reste inconnu ou contradictoire.
+6. Présentez vos résultats, une incertitude et la prochaine vérification proposée.
+
+Le JPEG inclus est le fichier fourni pour le cours, sans modification.
+Ses métadonnées restent intégrées ; aucune capture d’écran ou réexportation
+n’est nécessaire. Les autres fichiers de ce dossier sont des consignes et
+un carnet vierge, pas des pièces documentaires supplémentaires.
+
+GUIDES DE LECTURE DES MÉTADONNÉES — MAC ET WINDOWS
+Téléchargement officiel : https://exiftool.org/
+Installation : https://exiftool.org/install.html
+
+Sur Mac (macOS)
+1. Téléchargez le JPEG original depuis cet atelier. Conservez-le, puis placez une copie dans le dossier Téléchargements, avec son nom inchangé : Takurua_Parent_2025_Rapa_1.jpg.
+
+2. Pour un premier examen sans installation : clic droit sur la copie → Ouvrir avec → Aperçu. Dans Aperçu, choisissez Outils → Afficher l’inspecteur (⌘I), puis parcourez les informations disponibles. Ce premier aperçu ne présente pas nécessairement tous les champs EXIF, IPTC et XMP.
+
+3. Pour l’examen complet, ouvrez le site officiel ExifTool (lien ci-dessus). Si l’outil n’est pas déjà installé, téléchargez le « MacOS Package » (.pkg), ouvrez-le et suivez l’installation. Si le poste bloque l’installation ou demande des droits que vous n’avez pas, consultez la notice officielle ou demandez l’aide de l’enseignant.
+
+4. Ouvrez Terminal depuis Applications → Utilitaires (ou recherchez « Terminal » avec Spotlight). Copiez cette commande et appuyez sur Entrée pour vérifier que l’outil répond.
+   exiftool -ver
+
+5. Affichez les métadonnées de la copie. Cette commande lit le fichier sans le modifier.
+   exiftool -G1 -a -s ~/Downloads/Takurua_Parent_2025_Rapa_1.jpg
+
+6. Pour garder un relevé, exécutez cette variante, puis ouvrez metadonnees.txt dans Téléchargements avec TextEdit.
+   exiftool -G1 -a -s ~/Downloads/Takurua_Parent_2025_Rapa_1.jpg > ~/Downloads/metadonnees.txt
+
+Sur PC (Windows)
+1. Téléchargez le JPEG original, conservez-le et faites une copie pour l’enquête. Pour un premier examen sans installation : sélectionnez la copie dans l’Explorateur de fichiers, appuyez sur Alt+Entrée, puis ouvrez l’onglet Détails. Cette vue peut omettre certains champs.
+
+2. Ouvrez le site officiel ExifTool (lien ci-dessus). Téléchargez le « Windows Executable » adapté à votre système (64 bits dans la plupart des cas). Clic droit sur le ZIP téléchargé → Extraire tout. Ouvrez le dossier extrait ; ne lancez pas l’outil depuis le ZIP.
+
+3. Gardez l’exécutable et le dossier exiftool_files côte à côte. Pour une première lecture, faites glisser la copie du JPEG sur exiftool(-k).exe : les informations s’affichent dans une fenêtre qui reste ouverte.
+
+4. Pour obtenir un relevé détaillé et exportable : dans l’Explorateur, activez Afficher → Afficher → Extensions de noms de fichiers (ou cochez « Extensions de noms de fichiers » dans l’onglet Affichage). Renommez exiftool(-k).exe en exiftool.exe, sans ajouter une seconde extension .exe. Placez la copie du JPEG dans ce même dossier.
+
+5. Depuis ce dossier, cliquez dans la barre d’adresse de l’Explorateur, saisissez powershell et appuyez sur Entrée. Dans la fenêtre PowerShell, copiez la commande suivante, puis validez avec Entrée.
+   .\exiftool.exe -G1 -a -s .\Takurua_Parent_2025_Rapa_1.jpg
+
+6. Pour garder un relevé, utilisez cette variante. Le fichier metadonnees.txt apparaît dans le même dossier ; ouvrez-le avec le Bloc-notes.
+   .\exiftool.exe -G1 -a -s .\Takurua_Parent_2025_Rapa_1.jpg | Out-File -Encoding utf8 .\metadonnees.txt
+
+Options : -G1 indique le groupe ; -a conserve les champs de même nom ;
+-s affiche les noms techniques. Ces commandes lisent le JPEG sans le modifier.
+Si un lecteur ne montre pas un champ, cela ne prouve pas son absence.
+
+SHA-256 du JPEG original : 783b6ee678874162526aa4ebeb28e2cbe002a7c8ec8bb819c1b8fe2ca83dc757

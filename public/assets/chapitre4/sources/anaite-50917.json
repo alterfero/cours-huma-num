@@ -1,0 +1,241 @@
+{
+  "@context": "https://anaite.upf.pf/api-context",
+  "@id": "https://anaite.upf.pf/api/items/50917",
+  "@type": [
+    "o:Item",
+    "dctype:StillImage"
+  ],
+  "o:id": 50917,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "https://anaite.upf.pf/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "https://anaite.upf.pf/api/resource_classes/33",
+    "o:id": 33
+  },
+  "o:resource_template": {
+    "@id": "https://anaite.upf.pf/api/resource_templates/6",
+    "o:id": 6
+  },
+  "o:thumbnail": null,
+  "o:title": "41. - Tahiti. - Papeete",
+  "thumbnail_display_urls": {
+    "large": "https://anaite.upf.pf/files/large/03395c41bb416f903838659257b009661fff1899.jpg",
+    "medium": "https://anaite.upf.pf/files/medium/03395c41bb416f903838659257b009661fff1899.jpg",
+    "square": "https://anaite.upf.pf/files/square/03395c41bb416f903838659257b009661fff1899.jpg"
+  },
+  "o:created": {
+    "@value": "2024-09-10T02:29:25+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2025-09-29T21:39:59+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:primary_media": {
+    "@id": "https://anaite.upf.pf/api/media/51043",
+    "o:id": 51043
+  },
+  "o:media": [
+    {
+      "@id": "https://anaite.upf.pf/api/media/51043",
+      "o:id": 51043
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/51044",
+      "o:id": 51044
+    }
+  ],
+  "o:item_set": [
+    {
+      "@id": "https://anaite.upf.pf/api/item_sets/54433",
+      "o:id": 54433
+    }
+  ],
+  "o:site": [
+    {
+      "@id": "https://anaite.upf.pf/api/sites/3",
+      "o:id": 3
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/sites/5",
+      "o:id": 5
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "41. - Tahiti. - Papeete"
+    }
+  ],
+  "dcterms:description": [
+    {
+      "type": "literal",
+      "property_id": 4,
+      "property_label": "Description",
+      "is_public": true,
+      "@value": "Vue panoramique du port de Papeete. Au premier plan, la ville. On aperçoit, parmi la végétation, les maisons de construction moderne dont on devine les toits en tôle. Au centre, la cathédrale. À droite, on aperçoit des bâtiments aux toitures à double pans, probablement les Établissements de Fare Ute. Au second plan, la rade de Papeete. Trois voiliers sont à l’ancre, notamment, à l’arrière plan, un trois-mâts. D’autres bateaux sont à quai à droite et, à gauche, quai du commerce, un vapeur. Probablement le Mariposa ?\r\n\r\nLa carte est colorisée. En haut à droite, un timbre à 10 centimes oblitéré le 3 février 1924. À gauche, le tampon de la Compagnie Franco-Tahitienne, et en haut à droite, une indication manuscrite ajoutée au crayon.\r\n\r\nAucune date d'édition n'est mentionnée sur la carte postale. La datation approximative proposée résulte d'une analyse des indices de mise en forme et de la correspondance."
+    }
+  ],
+  "dcterms:coverage": [
+    {
+      "type": "literal",
+      "property_id": 14,
+      "property_label": "Coverage",
+      "is_public": true,
+      "@value": "Polynésie française"
+    },
+    {
+      "type": "literal",
+      "property_id": 14,
+      "property_label": "Coverage",
+      "is_public": true,
+      "@value": "Iles de la société"
+    },
+    {
+      "type": "literal",
+      "property_id": 14,
+      "property_label": "Coverage",
+      "is_public": true,
+      "@value": "Tahiti"
+    },
+    {
+      "type": "literal",
+      "property_id": 14,
+      "property_label": "Coverage",
+      "is_public": true,
+      "@value": "20ème siècle"
+    }
+  ],
+  "dcterms:date": [
+    {
+      "type": "literal",
+      "property_id": 7,
+      "property_label": "Date",
+      "is_public": true,
+      "@value": "1918/1924"
+    },
+    {
+      "type": "literal",
+      "property_id": 7,
+      "property_label": "Date",
+      "is_public": true,
+      "@value": "Date de numérisation : 2017"
+    }
+  ],
+  "dcterms:format": [
+    {
+      "type": "literal",
+      "property_id": 9,
+      "property_label": "Format",
+      "is_public": true,
+      "@value": "1 impression photomécanique : couleurs (9x15 cm)"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "Z14-003-00846"
+    }
+  ],
+  "dcterms:language": [
+    {
+      "type": "literal",
+      "property_id": 12,
+      "property_label": "Language",
+      "is_public": true,
+      "@value": "fre"
+    },
+    {
+      "type": "literal",
+      "property_id": 12,
+      "property_label": "Language",
+      "is_public": true,
+      "@value": "eng"
+    }
+  ],
+  "dcterms:publisher": [
+    {
+      "type": "literal",
+      "property_id": 5,
+      "property_label": "Publisher",
+      "is_public": true,
+      "@value": "Edition G. Spitz"
+    }
+  ],
+  "dcterms:relation": [
+    {
+      "type": "literal",
+      "property_id": 13,
+      "property_label": "Relation",
+      "is_public": true,
+      "@value": "Fonds GUTZWILLER (Fi14)"
+    }
+  ],
+  "dcterms:rights": [
+    {
+      "type": "literal",
+      "property_id": 15,
+      "property_label": "Rights",
+      "is_public": true,
+      "@value": "Diffusion sous licence Creative Commons BY-NC-SA en vertu de la convention liant l’Université de la Polynésie Française et le Service du Patrimoine Archivistique et Audiovisuel de la Polynésie Française."
+    }
+  ],
+  "dcterms:source": [
+    {
+      "type": "literal",
+      "property_id": 11,
+      "property_label": "Source",
+      "is_public": true,
+      "@value": "Service du patrimoine archivistique et audiovisuel (SPAA)"
+    }
+  ],
+  "dcterms:subject": [
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Papeete (Polynésie française)"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "ports"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "bateaux"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "architecture"
+    }
+  ],
+  "dcterms:type": [
+    {
+      "type": "literal",
+      "property_id": 8,
+      "property_label": "Type",
+      "is_public": true,
+      "@value": "Carte postale"
+    }
+  ],
+  "o-module-group:group": []
+}

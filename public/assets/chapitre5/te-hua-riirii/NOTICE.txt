@@ -1,0 +1,25 @@
+CHAPITRE 5 — TE HUA RIIRII
+
+Titre : Te Hua Riirii (graphie de la notice Internet Archive).
+Crédit de la notice : Coco Hotahota & Temaeva.
+Album : Escale A Papeete. Date déclarée : 1976. Support source : Vinyl LP.
+Source : https://archive.org/details/coco-hotahota-and-temaeva-escale-a-papeete/03-Te+Hua+Riirii.flac
+Métadonnées : https://archive.org/metadata/coco-hotahota-and-temaeva-escale-a-papeete
+Consultation : 13 novembre 2026. Dépôt de l’archive : 16 juillet 2026.
+
+Les cinq fichiers ont été fournis par le responsable du cours dans audio/archive, puis copiés sans modification pour la préparation locale du support : FLAC, MP3 de l’archive, MP3 à 8 kbit/s et captures flac.png / 8kbps.png. Ils ne font pas partie du dossier distribué pour l’atelier. Aucun nouveau traitement sonore n’a été appliqué.
+
+Le fichier FLAC : 44 100 Hz, 16 bits, stéréo, 2 096 928 échantillons par canal, 47,549387755 s, 4 157 806 octets.
+MP3 de l’archive : 44 100 Hz, stéréo, débit audio variable moyen ~198,7 kbit/s, 1 305 730 octets. Ce n’est pas un MP3 à 256 kbit/s.
+MP3 démonstration : 24 000 Hz, mono, 8 000 bit/s, environ 47,712 s, 48 100 octets.
+Mesures : afinfo (Core Audio), tailles du système de fichiers, SHA-256. Voir media.json et les relevés *-afinfo.txt. La durée inclut parfois le remplissage de l’encodeur MP3 selon les métadonnées du fichier.
+
+Les captures ont des échelles de fréquence différentes. Leurs paramètres FFT et couleurs ne sont pas documentés. La capture nommée FLAC montre une piste de travail Audacity mono / 32-bit float, ce qui ne correspond pas aux caractéristiques du FLAC source stéréo / 16 bits. Elles sont utilisées comme illustrations, sans en déduire une mesure exacte des pertes. Le MP3 8 kbit/s change également fréquence et nombre de canaux.
+
+DROITS
+Aucun champ licenseurl ou rights, ni autorisation de réutilisation dans la description consultée. Le relevé archive-notice.json conserve les champs descriptifs pertinents (sans coordonnées du déposant). Aucune licence ouverte n’est attribuée par le cours. La disponibilité technique n’autorise pas à elle seule le téléchargement, la rediffusion ou la transformation. Le statut licite ou illicite du dépôt ne peut pas être déduit de la seule absence de licence.
+Cette intégration prépare une démonstration locale demandée par l’enseignant ; elle ne vaut pas autorisation de publier l’enregistrement ou ses variantes. Avant une mise en ligne publique du support avec ces médias, établir les droits ou retirer les copies audio et garder le lien vers la notice.
+Internet Archive : https://help.archive.org/help/rights/
+Repères locaux : https://www.service-public.pf/dgae/wp-content/uploads/sites/44/2026/01/Guide-PI.pdf
+
+L’atelier impose aux étudiants de trouver eux-mêmes une autre piste avec une permission vérifiable couvrant la découpe et l’écoute publique sur un site Web.

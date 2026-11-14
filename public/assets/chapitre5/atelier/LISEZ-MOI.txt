@@ -1,0 +1,42 @@
+HUMANITÉS NUMÉRIQUES — ATELIER DU CHAPITRE 5
+
+En binômes : trouvez vous-même une piste utilisable sur https://archive.org/details/audio
+Aucun audio ni corrigé n’est fourni. Le choix de la piste et la preuve de réutilisation font partie du travail.
+
+1. RECHERCHER ET VÉRIFIER
+Consultez la notice, la licence complète et la provenance. Vérifiez que les permissions couvrent l’enregistrement, sa découpe et l’écoute publique sur un site Web. Privilégiez CC0, CC BY ou CC BY-SA ; justifiez le contexte non commercial pour une licence NC. Écartez ND et les droits indéterminés pour cet atelier de montage. Un filtre de recherche ou un bouton de téléchargement ne suffit pas.
+Notez titre, créateurs, source, version de licence, URL de preuve et date de consultation. Une autorisation doit venir d’une personne habilitée à accorder les droits concernés.
+
+2. CONSERVER LA PISTE REÇUE
+Téléchargez une piste, de préférence WAV ou FLAC si disponible. Conservez le fichier intact, avec son extension réelle, dans 01-original. Si seul un MP3 est disponible, le garder comme fichier reçu ; il est déjà compressé avec perte.
+
+3. SÉLECTIONNER DANS AUDACITY OU UN AUTRE ÉDITEUR
+Écoutez et choisissez un extrait cohérent de 15 à 30 secondes. Cette durée est une consigne, pas une permission légale. Relevez début et fin dans l’original. Documentez fondus ou effets éventuels.
+
+4. EXPORTER EN WAV PCM
+Fichier > Exporter l’audio > vers l’ordinateur > WAV / PCM > Sélection actuelle (libellés variables selon la version). Conservez fréquence et canaux. Choisissez 16 bits pour une source 16 bits ou un MP3 décodé ; conservez 24 bits lorsque la source et le travail le justifient. Destination : 02-extrait-wav/extrait.wav.
+
+5. EXPORTER EN MP3
+À partir de la même sélection ou du WAV, exportez un MP3 à 256 kbit/s constants, mêmes limites, fréquence et canaux. Destination : 03-extrait-web/extrait-256kbps.mp3.
+Un projet .aup3 ne remplace pas ces exports. Un WAV issu d’un MP3 ne récupère pas les informations perdues ; le réencodage MP3 ajoute une génération avec perte. Évitez les conversions successives.
+
+6. VÉRIFIER ET REMETTRE LE DOSSIER
+Rouvrez les deux exports et comparez passage, durée utile, qualité et taille. Calculez taille WAV / taille MP3. Complétez NOTICE.md : paramètres, provenance, preuve des droits, crédit, licence avec lien, transformations et description accessible près du lecteur.
+Conservez éventuellement une capture datée de la permission et le projet Audacity. Remettez original + WAV + MP3 + NOTICE.md. Aucune publication automatique n’est effectuée.
+
+CRÉDIT À COMPLÉTER
+« [Titre] » — [créateur / interprète], [source liée], sous [licence et version liées]. Extrait de [début] à [fin] ; [transformations] par [binôme], [date]. [Description sonore].
+Si nécessaire, préciser la licence de l’adaptation.
+
+ÉVALUATION
+Piste trouvée et droits justifiés ; original intact ; passage cohérent ; WAV et MP3 concordants ; paramètres et tailles comparés ; attribution et description complètes.
+
+EXPORT AUDACITY
+https://manual.audacityteam.org/man/file_export_dialog.html
+
+LICENCES
+https://creativecommons.org/licenses/by/4.0/deed.fr
+https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+https://creativecommons.org/faq/
+
+Le carnet du site enregistre vos textes, pas les fichiers audio. Exportez NOTICE.md pour le joindre au dossier.

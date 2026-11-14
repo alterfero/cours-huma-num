@@ -1,0 +1,36 @@
+{
+  "source": "https://archive.org/metadata/SiJeToubliepnohu-LesCheminsDeLaCultureMoorea",
+  "checked": "2026-11-13",
+  "metadata": {
+    "identifier": "SiJeToubliepnohu-LesCheminsDeLaCultureMoorea",
+    "title": "Si je t'oublie Opunohu - Les chemins de la culture à  Moorea",
+    "creator": "Yannick Fer et Gwendoline Malogne-Fer, Groupe sociétés, religions, laïcités - UMR 8582 (CNRS - EPHE)",
+    "date": "2015",
+    "publisher": "CNRS",
+    "runtime": "53:46",
+    "credits": "N° master : 86\nDurée : 54 min.\nDate de production : 2015\nVersion(s)  : Français\nRéalisation : Yannick Fer et Gwendoline Malogne-Fer, Groupe sociétés, religions, laïcités - UMR 8582 (CNRS - EPHE)\nPrise de vues : Gwendoline Malogne-Fer\nMontage, post-production : Arghyro Paouri - CEM / iiAC",
+    "rights": "CNRS, Te Piti Productions, 2015",
+    "licenseurl": "http://creativecommons.org/licenses/by-nc-nd/3.0/fr/",
+    "addeddate": "2016-01-04 15:45:29"
+  },
+  "files": [
+    {
+      "name": "086-Opunohu.mp4",
+      "source": "original",
+      "format": "MPEG4",
+      "size": "611909954",
+      "length": "3225.76",
+      "width": "640",
+      "height": "360"
+    },
+    {
+      "name": "086-Opunohu.ogv",
+      "source": "derivative",
+      "format": "Ogg Video",
+      "size": "232015209",
+      "length": "3225.9",
+      "width": "533",
+      "height": "300"
+    }
+  ]
+}

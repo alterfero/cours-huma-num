@@ -1,0 +1,50 @@
+HUMANITÉS NUMÉRIQUES — CHAPITRE 6
+ATELIER COLLECTIF — LE MICRO-DOCUMENTAIRE D’UN OBJET
+
+Une heure pour réaliser et publier un film de 30 secondes avec une voix off et des sous-titres.
+Avant la séance, la personne qui anime teste le transfert du téléphone vers l’ordinateur, ouvre HandBrake (https://handbrake.fr/downloads.php) et Subtitle Edit (https://github.com/SubtitleEdit/subtitleedit/releases/latest), puis vérifie la connexion Internet et l’accès à un compte Internet Archive autorisé à publier. Prévoir un second appareil ou une fenêtre de navigation privée pour la relecture.
+
+1. CHOISIR CE QUE L’OBJET VA RACONTER
+La classe réalise un seul film. Distribuez les rôles : cadrage, voix off, transfert et compression, sous-titrage, publication et vérification.
+
+2. FILMER 30 SECONDES AVEC UNE VOIX OFF
+Écoutez la prise avec toute la classe. Comprend-on chaque phrase ? Le détail annoncé est-il visible au bon moment ? Gardez une prise de 30 secondes où image et voix se répondent.
+
+3. TRANSFÉRER ET CONSERVER L’ORIGINAL
+Relevez dans les informations du fichier sa taille en Mo, ses dimensions en pixels et sa cadence en images par seconde. Gardez cet original pour mesurer ce que change la compression.
+
+4. CRÉER UNE COPIE PLUS LÉGÈRE DANS HANDBRAKE
+Ouvrez l’original. Dans Résumé, choisissez MP4. Dans Dimensions, limitez la définition à 720p en conservant les proportions, sans agrandir l’image. Dans Vidéo, choisissez H.264, la cadence de la source et, pour un premier essai, un débit moyen de 1 500 kbit/s. Dans Audio, conservez la voix en AAC à 128 kbit/s. Lancez l’encodage vers 02-diffusion/objet.mp4.
+
+Comparez les deux tailles et regardez le même détail dans les deux films. Quels contours faut-il préserver ? Une cadence plus basse rendrait-elle le geste moins fluide ? Quel lecteur pourra décoder le H.264 ? Si la copie pèse autant ou davantage, repartez de l’original, baissez le débit vidéo et vérifiez à nouveau la netteté et la voix.
+
+5. SOUS-TITRER LA COPIE DE DIFFUSION
+Dans Subtitle Edit, ouvrez objet.mp4 comme vidéo. Écoutez une phrase, créez un sous-titre, placez son début et sa fin sur la parole, puis saisissez ce qui est réellement dit. Répétez pour chaque phrase et ajoutez les sons qui aident à comprendre. Pendant ce travail, une autre personne prépare le titre, les crédits et la description du dépôt.
+
+Faites relire la vidéo sans le son. Corrigez les coupures et les accents, puis enregistrez dans 03-sous-titres/ au format SubRip (.srt), en UTF-8. Les temps doivent correspondre au MP4 qui sera publié.
+
+6. PUBLIER LE FILM ET SES SOUS-TITRES SUR INTERNET ARCHIVE
+Depuis le compte prévu, ouvrez la page de dépôt et sélectionnez objet.mp4. Notez l’identifiant proposé dans l’adresse de la future notice, après /details/. Renommez le SRT avec cet identifiant exact : si la notice se termine par tasse-reparee-groupe7, le fichier doit s’appeler tasse-reparee-groupe7.srt. Ajoutez-le au même dépôt.
+
+Renseignez le titre, les auteurs, la langue de la voix, une courte description et un mot-clé. Dans le champ de licence, sélectionnez la licence convenue et vérifiez sa version. Lancez la publication et copiez l’adresse de la notice publique.
+
+7. TESTER LA NOTICE COMME SPECTATEUR
+Une personne qui n’a pas fait le dépôt ouvre le lien sur un autre appareil ou en navigation privée, sans connexion au compte. Peut-elle lancer le film, entendre la voix et retrouver le crédit et la licence ? Activez les sous-titres dans le lecteur, coupez le son et regardez toute la séquence. Vérifiez la première et la dernière phrase, les accents, la lisibilité et la synchronisation.
+
+Si la piste manque, vérifiez la présence du SRT dans la liste des fichiers, son nom et ses repères temporels. Si nécessaire, corrigez-le via la modification de la notice et retestez. Si le lecteur est encore en préparation, notez qui refera le contrôle après traitement. Consignez le lien, les tailles avant et après compression et le résultat réellement observé.
+
+OUTILS ET DÉPÔT
+Ouvrir la page de dépôt Internet Archive : https://archive.org/create/
+Internet Archive · Déposer les fichiers et choisir la licence : https://archivesupport.zendesk.com/hc/en-us/articles/360002360111-Uploading-A-Basic-Guide
+Internet Archive · Nommer les sous-titres SRT : https://archivesupport.zendesk.com/hc/en-us/articles/360018377531-Movies-and-Videos-Tips-Troubleshooting
+Licence CC BY 4.0 en français : https://creativecommons.org/licenses/by/4.0/deed.fr
+HandBrake · Régler le débit vidéo : https://handbrake.fr/docs/en/latest/technical/video-cq-vs-abr.html
+Subtitle Edit · Logiciel de sous-titrage : https://github.com/SubtitleEdit/subtitleedit
+
+DOSSIER À CONSERVER
+01-original/        Prise de 30 secondes avec la voix off
+02-diffusion/       objet.mp4, copie compressée
+03-sous-titres/     SRT en UTF-8 portant l’identifiant du dépôt
+NOTICE.md           Crédit, licence, tailles, lien et résultat du test
+
+Publiez sur Internet Archive le MP4 de diffusion et son SRT. Conservez l’original et les notes de travail dans le dossier du groupe. Le carnet JSON permet de reprendre les notes dans l’atelier.

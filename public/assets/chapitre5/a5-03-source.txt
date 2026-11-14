@@ -1,0 +1,5 @@
+A5-03 — SOURCE FICTIVE
+
+Description du son calculé. Alternative à l’écoute.
+
+Son calculé : impulsions espacées, une pause, puis un son dont la fréquence évolue. Aucune parole ni source patrimoniale.

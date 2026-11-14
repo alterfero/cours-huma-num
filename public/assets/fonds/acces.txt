@@ -1,0 +1,9 @@
+FE-06 — Fiche d’accès au dossier
+Statut : document fictif créé pour l’exercice.
+La notice de présentation figure dans notices-des-pieces.md.
+
+--- DÉBUT DU DOCUMENT ---
+Dossier : mémoires du débarcadère.
+Accès autorisé : consultation dans le cadre d’un travail de recherche.
+Accord pour une diffusion publique : non renseigné.
+--- FIN DU DOCUMENT ---

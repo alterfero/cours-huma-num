@@ -1,0 +1,27 @@
+CHAPITRE 3 — SOURCES ET CONDITIONS D’UTILISATION
+
+Atelier préparé le 11 novembre 2026 (Pacific/Tahiti). Accès public, recherche de candidats et génération de carte vérifiés dans Marawa sans connexion. Le code local a été consulté pour distinguer candidats, voisins du trope sélectionné et limites de résultats. L’interface et les données peuvent évoluer.
+
+Aucun document original, résumé, annotation de récit, vecteur ou fond de carte n’est distribué dans ce dossier. Les histoires sont consultées dans Marawa.
+
+Annotations Marawa : CC BY-NC-SA, selon l’indication du responsable du cours le 10 novembre 2026 ; version non précisée. La référence Creative Commons 4.0 sert à lire les clauses, sans établir cette version pour Marawa.
+
+Les droits des sources originales, éditions et traductions sont distincts. Pour une capture, examiner aussi les conditions du fond de carte, de ses données, des tuiles et des autres éléments visibles. Ne pas confondre accès public et autorisation de réutilisation.
+
+Marawa — Exploration des histoires par les tropes
+https://marawa-prototype-production-9a6b.up.railway.app/#/exploration
+Support des démonstrations en direct. Le chapitre s’appuie sur le code du projet et son contrat de données examinés le 10 novembre 2026. Les écrans accessibles dépendent du compte.
+
+Sentence Transformers — Semantic Search
+https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html
+Recherche de voisins dans un espace vectoriel commun aux textes et aux requêtes ; choix du modèle et de l’unité représentée.
+
+Creative Commons — Lire les conditions BY-NC-SA
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+Ressource pour comprendre les clauses, consultée le 11 novembre 2026. Cette page présente la version 4.0 ; elle ne permet pas d’attribuer cette version aux annotations Marawa.
+
+OpenStreetMap — Droits, licence et attribution du fond de carte
+https://www.openstreetmap.org/copyright
+Conditions des données OpenStreetMap et liens vers les règles d’attribution, notamment pour les cartes imprimées et les images fixes. Consulter aussi les conditions du fournisseur des tuiles effectivement affichées. Consulté le 11 novembre 2026.
+
+Le carnet conserve les notes de l’étudiant dans son navigateur. Les exports Markdown et JSON ne contiennent pas les images ni l’état de la carte et ne sont pas transmis à Marawa. La sauvegarde de ce nouvel atelier est séparée de l’ancien carnet de sélection d’histoires.

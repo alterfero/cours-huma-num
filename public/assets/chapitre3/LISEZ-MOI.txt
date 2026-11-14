@@ -1,0 +1,112 @@
+UNE CARTE D’HISTOIRES, DES CHOIX À EXPLIQUER — CHAPITRE 3
+
+Version : marawa-carte-2026-11-11-v2
+
+Travail individuel. Chaque étudiant choisit un trope, génère sa carte d’histoires dans Marawa et analyse son propre résultat. La visualisation est le point de départ d’une enquête sur la recherche, les sources, les licences et la représentation.
+
+OUVRIR MARAWA
+https://marawa-prototype-production-9a6b.up.railway.app/#/exploration
+
+Ouvrez Exploration sans vous identifier : c’est l’accès public utilisé ici comme visiteur (« guest »). Aucun compte ni jeton n’est demandé.
+
+MÉTHODE
+Pour chaque réponse, associez une observation de votre carte, une notion du cours et une conséquence pour votre interprétation. Séparez faits observés, informations documentées et hypothèses. Une limite d’accès ou une absence de résultat est à documenter.
+
+PARCOURS
+
+01. Choisir un trope et générer la carte — 10 min
+
+1. Dans Exploration, saisissez un mot ou une phrase puis lancez « Find candidates ». Examinez les propositions, cochez un seul trope et validez avec « Submit ».
+
+2. Notez la formulation saisie, sa langue, le libellé exact du trope retenu, son identifiant ou lien et la date. Relevez le seuil « Similarity threshold » et les nombres d’histoires indiqués.
+
+3. Conservez une vue de référence avec la légende et les crédits visibles. Notez son cadrage et son zoom. Une URL seule peut ne pas conserver tous les réglages : consignez-les dans le carnet.
+
+À conserver : Une carte de référence, sa question et ses paramètres.
+
+02. Enquêter sur les tropes « similaires » — 20 min
+
+1. Reformulez la même idée, éventuellement dans une autre langue que vous maîtrisez, et comparez les listes de candidats : nombre, ordre, propositions communes et différences. Distinguez la recherche de candidats à partir de votre saisie de la recherche de voisins du trope finalement sélectionné.
+
+2. Revenez au même trope et changez uniquement le seuil, par exemple de 0,62 à 0,80 si ces valeurs sont disponibles. Conservez le nouvel état et relevez les tropes voisins, les histoires portant le trope, les histoires associées et celles sans localisation. Un résultat vide est une observation valable.
+
+3. Expliquez avec vos mots le passage des libellés aux vecteurs, puis au classement par proximité. Que mesure le score ? Examinez un rapprochement pertinent et un rapprochement contestable si les résultats le permettent.
+
+4. Tous les tropes que vous jugeriez similaires sont-ils proposés ? Distinguez seuil, limite du nombre de candidats ou de voisins, contenu de l’index et couverture documentaire. Une courte liste prouve-t-elle l’exhaustivité ? Précisez ce que l’interface permet de vérifier et ce qui demanderait une documentation du logiciel.
+
+À conserver : Deux formulations comparées et deux seuils à trope identique.
+
+03. Décider ce que l’on peut réutiliser — 20 min
+
+1. Choisissez une histoire de votre carte. Retrouvez les résumés et les références accessibles depuis l’exploration. Distinguez le récit source, son édition ou sa traduction, les annotations Marawa et votre commentaire.
+
+2. Que pouvez-vous partager de ces résultats en fonction de l'utilisation que vous voulez en faire ? Remplissez le tableau ci-dessous.
+
+Une capture de ma visualisation
+Couches à examiner : Fond de carte et tuiles, annotations Marawa, textes et autres éléments visibles.
+- Document non commercial : décision, conditions, preuve, crédit et vérification éventuelle.
+- Document commercial : décision, conditions, preuve, crédit et vérification éventuelle.
+
+Le texte d’un résumé Marawa
+Couches à examiner : Résumé identifié, auteur ou crédit disponible, licence des annotations, copie ou adaptation.
+- Document non commercial : décision, conditions, preuve, crédit et vérification éventuelle.
+- Document commercial : décision, conditions, preuve, crédit et vérification éventuelle.
+
+Le texte de la source d’une histoire
+Couches à examiner : Document et édition précis, auteur, traducteur éventuel, statut ou licence propres à cette source.
+- Document non commercial : décision, conditions, preuve, crédit et vérification éventuelle.
+- Document commercial : décision, conditions, preuve, crédit et vérification éventuelle.
+
+
+04. Interroger le fond de carte et les symboles — 20 min
+
+1. Identifiez le fournisseur du fond de carte grâce aux crédits. Examinez projection, centre, coupure du planisphère, place du Pacifique, échelle, relief, frontières actuelles et noms de lieux. Distinguez ce qui est visible de ce qui est confirmé par une documentation. Quels espaces paraissent centraux, petits, éloignés ou séparés ?
+
+2. Lisez la légende : que désignent un point, sa taille, sa couleur et un lien ? Plusieurs histoires partagent-elles une localisation ou un symbole ? Les liens indiquent-ils une proximité de tropes, une distance, un trajet ou une chronologie ? Appuyez votre réponse sur les informations disponibles.
+
+3. Reprenez le trope et le seuil choisis initialement. Créez une autre vue en changeant uniquement le cadrage ou le zoom ; vous pouvez aussi tester un réglage visuel disponible. Comparez la visibilité des îles, des regroupements, des liens et des superpositions. Si une autre projection n’est pas proposée, décrivez une alternative sans prétendre l’avoir testée.
+
+4. Que localisent les coordonnées : lieu du récit, de collecte, de publication, territoire approximatif ? Recherchez ce sens pour vos histoires. Repérez les histoires sans localisation et les biais de couverture : une zone vide indique-t-elle une absence d’histoires ou une absence de données représentées ?
+
+À conserver : Deux vues comparées et trois choix reliés à leurs effets sur la lecture.
+
+05. Présenter une carte que l’on peut discuter — 20 min
+
+1. Choisissez votre vue finale et rédigez une légende autonome : question, trope, requête, date, seuil, symboles, sources et crédits vérifiés. Ajoutez quelques phrases décrivant la carte pour une personne qui ne peut pas la voir.
+
+2. Formulez une interprétation appuyée sur les histoires consultées en mettant en avant les conditions et limites de vos hypothèses.
+
+À conserver : Le carnet argumenté, les vues documentées et une présentation de trois minutes.
+
+RESTITUTION
+- Un carnet Markdown avec les observations, les six décisions de réutilisation, leurs preuves et la conclusion ; une sauvegarde JSON pour reprendre le travail.
+
+- Vos vues légendées, dans les conditions établies par votre analyse des droits ; à défaut, les liens, réglages et descriptions motivant cette limite. Les images sont remises séparément : le carnet ne les enregistre pas.
+
+- Une restitution orale de trois minutes : votre trope et votre carte, un rapprochement discuté, une décision sur les droits et un choix de représentation.
+
+CRITÈRES
+Recherche traçable : Les requêtes, le trope, les paramètres et les comparaisons permettent de comprendre la sélection et ses limites.
+
+Droits argumentés : Les six décisions distinguent capture, résumé et source ; elles citent des preuves et signalent les informations manquantes.
+
+Lecture critique : Les choix du fond et des symboles sont reliés à des effets précis ; les lacunes et les limites d’interprétation sont explicites.
+
+RESSOURCES
+Marawa — Exploration des histoires par les tropes
+https://marawa-prototype-production-9a6b.up.railway.app/#/exploration
+Support des démonstrations en direct. Le chapitre s’appuie sur le code du projet et son contrat de données examinés le 10 novembre 2026. Les écrans accessibles dépendent du compte.
+
+Sentence Transformers — Semantic Search
+https://www.sbert.net/examples/sentence_transformer/applications/semantic-search/README.html
+Recherche de voisins dans un espace vectoriel commun aux textes et aux requêtes ; choix du modèle et de l’unité représentée.
+
+Creative Commons — Lire les conditions BY-NC-SA
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+Ressource pour comprendre les clauses, consultée le 11 novembre 2026. Cette page présente la version 4.0 ; elle ne permet pas d’attribuer cette version aux annotations Marawa.
+
+OpenStreetMap — Droits, licence et attribution du fond de carte
+https://www.openstreetmap.org/copyright
+Conditions des données OpenStreetMap et liens vers les règles d’attribution, notamment pour les cartes imprimées et les images fixes. Consulter aussi les conditions du fournisseur des tuiles effectivement affichées. Consulté le 11 novembre 2026.
+
+Le dossier contient les consignes, le carnet vierge et les références. Aucun corrigé ni contenu de récit n’est distribué.

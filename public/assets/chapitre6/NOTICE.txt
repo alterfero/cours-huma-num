@@ -1,0 +1,45 @@
+CHAPITRE 6 — PROVENANCE DES DOCUMENTS
+Consultation : 13 novembre 2026
+
+ARCHIVE VIDÉO
+Si je t’oublie Opunohu — Les chemins de la culture à Moorea
+https://archive.org/details/SiJeToubliepnohu-LesCheminsDeLaCultureMoorea
+La notice annonce CC BY-NC-ND 3.0 France. Aucun film ni extrait du film n’est distribué ici. Le lecteur externe se charge uniquement à la demande. Le relevé sources/archive-notice.json conserve les champs utiles et l’inventaire vidéo, sans coordonnées personnelles du déposant. Les tailles, durées et dimensions sont celles de l’API Internet Archive, non des mesures indépendantes du master.
+
+ILLUSTRATIONS
+cardboard.jpg
+Cardboard : le téléphone fournit l’écran
+Crédit : Runner1928, 2014
+Source : https://commons.wikimedia.org/wiki/File:Google_Cardboard_assembled.jpg
+Licence : CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Traitement : Réduction à 1 200 pixels, sans recadrage.
+SHA-256 : 46696c4f664f1f89e87fb8c151b87a4b5ada709b2b4728c4f61c40d7234c4375
+
+htc-vive.jpg
+HTC Vive : un casque suivi dans l’espace
+Crédit : Mauricio Pesce, 2015
+Source : https://commons.wikimedia.org/wiki/File:HTC_Vive.jpg
+Licence : CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/
+Traitement : Réduction à 1 200 pixels, sans recadrage. Modèle historique illustratif.
+SHA-256 : eabdb5442f6b12b507eda8b4384d44c459c7145b4b36e25ff87d54d849cc7526
+
+glossopticon.jpg
+Glossopticon : écouter une archive en se déplaçant
+Crédit : Andrew Burrell, 2023, figure 1, p. 3
+Source : https://opus.lib.uts.edu.au/handle/10453/175954
+Licence : CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Traitement : Image extraite du PDF publié, sans retouche. Composition publiée montrant la personne et l’environnement virtuel.
+SHA-256 : c06c53ad0e88c085100c878106d81093eefca7127f7c90ac09c52dab8618151d
+
+ar-augment.jpg
+Augment : prévisualiser un objet dans une pièce
+Crédit : ChristinaC., 2016
+Source : https://commons.wikimedia.org/wiki/File:Augmented_Reality_for_eCommerce.jpg
+Licence : CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Traitement : Fichier original inchangé. Visuel promotionnel d’une application réelle, pas photographie d’un objet physiquement présent.
+SHA-256 : baeb69b4d2dcbb22e662ac29ed5956216e24e4ee31932644ce589c29a7d30625
+
+Les photographies sont de vrais documents publiés. La figure Glossopticon est la composition publiée dans l’article de Burrell, non une photographie de ce que voit directement un tiers devant le casque. L’image Augment est un visuel promotionnel d’un service réel. Aucune illustration n’a été générée par IA. Les légendes du cours sont distinctes des documents sources.
+
+ATELIER
+Vidéo choisie ou créée par les étudiants ; pas de média préchargé. Le formulaire de sous-titrage traite le fichier local par une URL temporaire dans le navigateur. Les notes et segments peuvent être enregistrés localement et exportés ; aucun téléversement, aucune transcription automatique ni publication.

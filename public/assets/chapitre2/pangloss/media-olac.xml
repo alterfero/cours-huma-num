@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns='http://www.openarchives.org/OAI/2.0/' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd'>
+<responseDate>2026-11-07T14:09:50Z</responseDate>
+<request identifier='oai:crdo.vjf.cnrs.fr:cocoon-e3f8c82b-7513-3687-a8e0-ffad68a365fa' metadataPrefix='olac' verb='GetRecord' >http://cocoon.huma-num.fr/crdo_servlet/oai-pmh</request>
+<GetRecord>
+<record>
+    <header>
+        <identifier>oai:crdo.vjf.cnrs.fr:cocoon-e3f8c82b-7513-3687-a8e0-ffad68a365fa</identifier>
+        <datestamp>2025-11-06</datestamp>
+        <setSpec>Linguistique</setSpec>
+        <setSpec>set-af3bd0fd-2b33-3b0b-a6f1-49a7fc551eb1</setSpec>
+        <setSpec>set-fb6071ef-fb7f-4f0d-a071-effb7fef0dd6:set-fd48c512-26d0-3bd3-b02b-4ae995285d05</setSpec>
+    </header>
+    <metadata>
+        <olac:olac xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd"><!--oai:crdo.vjf.cnrs.fr:cocoon-e3f8c82b-7513-3687-a8e0-ffad68a365fa-->
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-e3f8c82b-7513-3687-a8e0-ffad68a365fa</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://doi.org/10.34847/cocoon.e3f8c82b-7513-3687-a8e0-ffad68a365fa</dc:identifier>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.5-144254</dc:identifier>
+            <dcterms:accessRights>Freely accessible</dcterms:accessRights>
+            <dcterms:license xsi:type="dcterms:URI">http://spdx.org/licenses/CC-BY-NC-ND-2.5</dcterms:license>
+            <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+            <dc:contributor olac:code="researcher" xsi:type="olac:role">Ozanne-Rivierre, Françoise</dc:contributor>
+            <dc:contributor olac:code="depositor" xsi:type="olac:role">Ozanne-Rivierre, Françoise</dc:contributor>
+            <dc:format xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+            <dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+            <dcterms:extent>PT1M25S</dcterms:extent>
+            <dcterms:isRequiredBy xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:cocoon-12d6759f-7892-3050-a42f-1aaad448b8d2</dcterms:isRequiredBy>
+            <dc:rights>Copyright (c) Ozanne-Rivierre, Françoise</dc:rights>
+            <dc:subject xml:lang="fr" olac:code="iai" xsi:type="olac:language">Iaai</dc:subject>
+            <dcterms:spatial>New Caledonia, Ouvéa</dcterms:spatial>
+            <dcterms:created xsi:type="dcterms:W3CDTF">1948</dcterms:created>
+            <dc:title xml:lang="en">The origin of the kong Hulup</dc:title>
+            <dc:type olac:code="primary_text" xsi:type="olac:linguistic-type"/>
+            <dc:type olac:code="narrative" xsi:type="olac:discourse-type"/>
+            <dc:contributor olac:code="translator" xsi:type="olac:role">Wadawa Hnyigootr</dc:contributor>
+            <dc:contributor olac:code="speaker" xsi:type="olac:role">Taï Waheo</dc:contributor>
+            <dcterms:isPartOf xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:cocoon-af3bd0fd-2b33-3b0b-a6f1-49a7fc551eb1</dcterms:isPartOf>
+            <dcterms:isPartOf xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:cocoon-fd48c512-26d0-3bd3-b02b-4ae995285d05</dcterms:isPartOf>
+            <dc:language xml:lang="fr" olac:code="iai" xsi:type="olac:language">Iaai</dc:language>
+            <dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/data/ozanne-rivierre/144254_HULUP_44k.mp3</dc:identifier>
+            <dcterms:issued xsi:type="dcterms:W3CDTF">2010-10-23T15:29:52+02:00</dcterms:issued>
+            <dcterms:spatial xsi:type="dcterms:ISO3166">NC</dcterms:spatial>
+            <dcterms:isFormatOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/data/ozanne-rivierre/masters/144254.wav</dcterms:isFormatOf>
+            <dcterms:available xsi:type="dcterms:W3CDTF">2010-10-23</dcterms:available>
+            <dc:type xml:lang="fr">Narration</dc:type>
+            <dc:subject xml:lang="fr">Pêche</dc:subject>
+            <dc:subject xml:lang="fr">Dieux</dc:subject>
+            <dc:description xml:lang="fr">Deux hommes de Canala suivent leur dieu qui fuit la montagne où il réside, ravagée par un feu de brousse. Ils débarquent à Mouli (= Hwakaiö) et, toujours à la suite du dieu, gagnent Lekiny, puis Vëkatr mais aucun de ces endroits ne leur convient. Ils arrivent à Hânyâû et lorsqu'un des hommes tombe au pied d'un arbre [il s'agit probablement du banyan (ibëk) dont on dit qu'une des racines ressort à Canala], le tonnerre éclate, signalant que cet endroit est destiné au Kong Hulup. Les liens anciens entre Canala et Ouvéa ont été largement commentés par Jean Guiart dans La structure de la chefferie en Mélanésie du Sud, 1963 (cf. p. 190 et pp. 577-581). Il a donné p. 577 une traduction de ce texte que lui avait remis Wadawa Hnyigootr. Le texte original en langue iaai, a été publié dans le volume édité au CTRDP par Jacob Waheo (Moju bongon kau adreem. Contes et légendes d'Ouvéa, recueil 2, 1989). Ce texte est lu par Taï Waheo.</dc:description>
+            <dcterms:spatial xsi:type="dcterms:Point">east=166.56166; north=-20.6225</dcterms:spatial>
+            <dc:identifier xml:lang="fr">Ancienne cote: crdo-IAI_HULUP_SOUND</dc:identifier>
+            <dc:identifier>doi:10.24397/PANGLOSS-0000283</dc:identifier>
+        </olac:olac>
+    </metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

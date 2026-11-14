@@ -1,0 +1,368 @@
+{
+  "@context": "https://anaite.upf.pf/api-context",
+  "@id": "https://anaite.upf.pf/api/items/51788",
+  "@type": [
+    "o:Item",
+    "dctype:Text"
+  ],
+  "o:id": 51788,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "https://anaite.upf.pf/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "https://anaite.upf.pf/api/resource_classes/31",
+    "o:id": 31
+  },
+  "o:resource_template": {
+    "@id": "https://anaite.upf.pf/api/resource_templates/2",
+    "o:id": 2
+  },
+  "o:thumbnail": null,
+  "o:title": "Te Vea no Tahiti - 1856",
+  "thumbnail_display_urls": {
+    "large": "https://anaite.upf.pf/files/large/1895751d10794029b5e7aa261587bfc2e2a2ba64.jpg",
+    "medium": "https://anaite.upf.pf/files/medium/1895751d10794029b5e7aa261587bfc2e2a2ba64.jpg",
+    "square": "https://anaite.upf.pf/files/square/1895751d10794029b5e7aa261587bfc2e2a2ba64.jpg"
+  },
+  "o:created": {
+    "@value": "2024-09-10T05:04:33+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2026-04-14T23:32:45+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:primary_media": {
+    "@id": "https://anaite.upf.pf/api/media/52283",
+    "o:id": 52283
+  },
+  "o:media": [
+    {
+      "@id": "https://anaite.upf.pf/api/media/52283",
+      "o:id": 52283
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52284",
+      "o:id": 52284
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52285",
+      "o:id": 52285
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52286",
+      "o:id": 52286
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52287",
+      "o:id": 52287
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52288",
+      "o:id": 52288
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52289",
+      "o:id": 52289
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52290",
+      "o:id": 52290
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52291",
+      "o:id": 52291
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52292",
+      "o:id": 52292
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52293",
+      "o:id": 52293
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52294",
+      "o:id": 52294
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52295",
+      "o:id": 52295
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52296",
+      "o:id": 52296
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52297",
+      "o:id": 52297
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52298",
+      "o:id": 52298
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52299",
+      "o:id": 52299
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52300",
+      "o:id": 52300
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52301",
+      "o:id": 52301
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52302",
+      "o:id": 52302
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52303",
+      "o:id": 52303
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52304",
+      "o:id": 52304
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52305",
+      "o:id": 52305
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52306",
+      "o:id": 52306
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52307",
+      "o:id": 52307
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52308",
+      "o:id": 52308
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52309",
+      "o:id": 52309
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52310",
+      "o:id": 52310
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52311",
+      "o:id": 52311
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52312",
+      "o:id": 52312
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52313",
+      "o:id": 52313
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52314",
+      "o:id": 52314
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52315",
+      "o:id": 52315
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52316",
+      "o:id": 52316
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52317",
+      "o:id": 52317
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52318",
+      "o:id": 52318
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52319",
+      "o:id": 52319
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52320",
+      "o:id": 52320
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52321",
+      "o:id": 52321
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52322",
+      "o:id": 52322
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52323",
+      "o:id": 52323
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52324",
+      "o:id": 52324
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52325",
+      "o:id": 52325
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52326",
+      "o:id": 52326
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52327",
+      "o:id": 52327
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52328",
+      "o:id": 52328
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52329",
+      "o:id": 52329
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52330",
+      "o:id": 52330
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/media/52331",
+      "o:id": 52331
+    }
+  ],
+  "o:item_set": [
+    {
+      "@id": "https://anaite.upf.pf/api/item_sets/49633",
+      "o:id": 49633
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/item_sets/49634",
+      "o:id": 49634
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/item_sets/53182",
+      "o:id": 53182
+    }
+  ],
+  "o:site": [
+    {
+      "@id": "https://anaite.upf.pf/api/sites/3",
+      "o:id": 3
+    },
+    {
+      "@id": "https://anaite.upf.pf/api/sites/5",
+      "o:id": 5
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Te Vea no Tahiti - 1856"
+    },
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Le messager de Tahiti"
+    }
+  ],
+  "dcterms:description": [
+    {
+      "type": "literal",
+      "property_id": 4,
+      "property_label": "Description",
+      "is_public": true,
+      "@value": "Le Vea no Tahiti est un hebdomadaire, premier journal en langue tahitienne sous l’administration française.  Il a été créé par une ordonnance du gouverneur Bonard. Il paraît, entre 1850 et 1859, parallèlement à : \"Messager de Tahiti\" qui l'absorbe en 1859."
+    }
+  ],
+  "dcterms:coverage": [
+    {
+      "type": "literal",
+      "property_id": 14,
+      "property_label": "Coverage",
+      "is_public": true,
+      "@value": "Polynésie française, 19ème siècle"
+    }
+  ],
+  "dcterms:date": [
+    {
+      "type": "literal",
+      "property_id": 7,
+      "property_label": "Date",
+      "is_public": true,
+      "@value": "1856"
+    },
+    {
+      "type": "literal",
+      "property_id": 7,
+      "property_label": "Date",
+      "is_public": true,
+      "@value": "Date de numérisation : 2019"
+    }
+  ],
+  "dcterms:format": [
+    {
+      "type": "literal",
+      "property_id": 9,
+      "property_label": "Format",
+      "is_public": true,
+      "@value": "50 fichiers au format pdf"
+    }
+  ],
+  "dcterms:language": [
+    {
+      "type": "literal",
+      "property_id": 12,
+      "property_label": "Language",
+      "is_public": true,
+      "@value": "tah"
+    }
+  ],
+  "dcterms:rights": [
+    {
+      "type": "literal",
+      "property_id": 15,
+      "property_label": "Rights",
+      "is_public": true,
+      "@value": "Diffusion sous licence Creative Commons BY-NC-SA en vertu de la convention liant l’Université de la Polynésie Française et le Service du Patrimoine Archivistique et Audiovisuel de la Polynésie Française."
+    }
+  ],
+  "dcterms:source": [
+    {
+      "type": "literal",
+      "property_id": 11,
+      "property_label": "Source",
+      "is_public": true,
+      "@value": "Service du patrimoine archivistique et audiovisuel (SPAA)"
+    }
+  ],
+  "dcterms:type": [
+    {
+      "type": "literal",
+      "property_id": 8,
+      "property_label": "Type",
+      "is_public": true,
+      "@value": "Imprimé"
+    }
+  ],
+  "extracttext:extracted_text": [
+    {
+      "type": "literal",
+      "property_id": 235,
+      "property_label": "extracted text",
+      "is_public": true,
+      "@value": "\f\n\f\n\f\n\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\n\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\n\f\n\f\n\f\f\n\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f\n\f\f"
+    }
+  ],
+  "o-module-group:group": []
+}

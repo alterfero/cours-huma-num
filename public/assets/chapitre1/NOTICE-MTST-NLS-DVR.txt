@@ -1,0 +1,40 @@
+PHOTOGRAPHIES DE LA GALERIE HISTORIQUE — MT/ST, NLS, DVR-1000
+Consultation et téléchargement : 9 novembre 2026 (Pacific/Tahiti).
+
+1. IBM MT/ST
+Fichier : ibm-mtst.jpg (1200 x 951 pixels).
+Crédit : Norsk Teknisk Museum, via Wikimedia Commons.
+Source : https://commons.wikimedia.org/wiki/File:IBM_Magnetic_Tape-Selectric_Typewriter_in_use.jpg
+Source institutionnelle : https://digitaltmuseum.org/011015239419/7-0-ibm-op-fotografier
+Licence : CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/
+Photographie reproduite intégralement, sans modification.
+La date de 2014 dans la notice Commons n’est pas retenue comme date de
+prise de vue historique. Le modèle est présenté comme introduit en 1964.
+La photographie montre une machine à écrire avec stockage, sans écran.
+
+2. NLS : écrans en usage à SRI
+Fichier : nls-1969.jpg (660 x 439 pixels).
+Crédit : SRI International, 1969.
+Source : https://commons.wikimedia.org/wiki/File:Augmentation_Research_Center_Wired_Article.jpg
+Provenance indiquée : https://www.wired.com/2013/12/tech-time-warp-engelbart/
+La notice décrit une réunion utilisant NLS pour afficher l’ordre du jour
+et démontrer les fonctions du système. Douglas Engelbart, Don Andrews et
+Bill English sont présents. La photo est datée de 1969, et non de 1968.
+Statut indiqué par Commons : domaine public aux États-Unis (publication
+entre 1931 et 1977 sans mention de copyright). Ce statut ne constitue pas
+une licence Creative Commons ni une déclaration de domaine public mondial.
+Image reproduite intégralement, sans modification.
+
+3. Sony DVR-1000
+Fichier source : sony-dvr1000-source.png (1280 x 660 pixels).
+Crédit : © Sony.
+Publication officielle : article du 6 mai 2022, « ソニー 76回目の創立記念日 ».
+Source : https://note.com/sonycorporation/n/n30bbfd5421fe
+Image : https://assets.st-note.com/img/1650887249059-hGjpfAT3Vm.png
+L’article identifie le premier appareil du montage comme le DVR-1000 (1987).
+Le fichier source complet est conservé sans modification ; l’affichage CSS
+isole le détail du produit, rectangle x=26, y=24, largeur=270, hauteur=221.
+Aucun détail du produit n’a été redessiné ou généré.
+Aucune licence ouverte n’est indiquée dans la publication consultée : cette
+image n’est pas présentée comme libre de droits. Le crédit et le lien vers
+la publication du fabricant sont affichés avec l’illustration.

@@ -1,0 +1,45 @@
+{
+  "checked": "2026-11-13",
+  "url": "https://archive.org/metadata/coco-hotahota-and-temaeva-escale-a-papeete",
+  "metadata": {
+    "identifier": "coco-hotahota-and-temaeva-escale-a-papeete",
+    "creator": "Coco Hotahota & Temaeva",
+    "date": "1976",
+    "description": "<div>1976 LP released by French Polynesian musician Coco Hotahota (1941-2020) and \"His Tahitian Group Temaeva\".<br /><br />He released several albums, with and without Temaeva, from the 1970s through at least the late 1990s.<br /><br />Several documentaries about Hotahota have been released, include Coco Hotahota Te Maeva in 2019 and Coco Hotahota farereiraa in 2022.</div><div><br /></div><div>Tracklist</div>A1 Iaora Iaora Tatou E<br />A2 E Marere<br />A3 Te Hua Riirii<br />A4 Pehepehe A Hina<br />A5 Faanui<br />A6 Horse Popoana<br />A7 Hopuraa Parau<br />A8 Ua Tai Au Ia Oe<br />A9 E Gni Aue<br />B1 E Pu E<br />B2 Te Riuriu<br />B3 Te L'a<br />B4 Roi Mata No Oro<br />B5 Ute Hiro<br />B6 Iaora I Te Farerei",
+    "language": "tah",
+    "source": "Vinyl LP",
+    "title": "Coco Hotahota & Temaeva - Escale A Papeete",
+    "publicdate": "2026-07-16 20:12:40"
+  },
+  "files": [
+    {
+      "name": "03-Te Hua Riirii.flac",
+      "source": "original",
+      "mtime": "1784232758",
+      "size": "4157806",
+      "md5": "651779c55a7f42b7649e1fe0d1fd4a10",
+      "crc32": "d87dc340",
+      "sha1": "e9659e0101c6fcd4c5ee89c0b0f934270e1c9e33",
+      "format": "Flac",
+      "length": "47.55",
+      "title": "Te Hua Riirii",
+      "track": "3"
+    },
+    {
+      "name": "03-Te Hua Riirii.mp3",
+      "source": "derivative",
+      "title": "Te Hua Riirii",
+      "track": "3",
+      "bitrate": "199",
+      "length": "00:48",
+      "format": "VBR MP3",
+      "original": "03-Te Hua Riirii.flac",
+      "mtime": "1784235137",
+      "size": "1305730",
+      "md5": "7ab61a7f2e46ef57f52f3947336f0e2c",
+      "crc32": "cf61d059",
+      "sha1": "564c31ae3c7a9f3fba068971783b6f8fe8382e35"
+    }
+  ],
+  "finding": "Aucun champ licenseurl ni rights ; aucune autorisation de réutilisation dans la description consultée."
+}

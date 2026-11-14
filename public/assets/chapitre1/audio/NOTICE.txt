@@ -1,0 +1,22 @@
+EXPÉRIENCE SONORE DU CHAPITRE 1
+
+Fichier fourni par l’enseignant : audio/tahiti_que_tu_es_belle.wav.
+Intégration : 9 novembre 2026 (Pacific/Tahiti).
+Aucun auteur ou interprète n’est déduit du nom du fichier.
+Source servie : copie identique, sans réencodage ni modification.
+Format : WAV PCM mono 16 bits ; 48 000 échantillons/s ; 703 455 valeurs.
+Durée : 14,6553125 secondes.
+
+L’expérience lit directement les valeurs PCM originales pour tracer le signal.
+Le rééchantillonnage conserve les valeurs aux instants multiples de 1/f,
+sans filtre anti-repliement. Chaque valeur est maintenue jusqu’à la mesure
+suivante pour la restitution. La durée et la cadence de lecture ne changent
+pas. Ce traitement pédagogique met en évidence les déformations ; il ne
+constitue pas une conversion destinée à préserver fidèlement un enregistrement.
+Le signal d’origine et le signal traité sont lus au même gain (0,35), avec
+de courtes rampes en entrée et en sortie pour éviter les clics de lecture.
+Le zoom de 20 ms adapte son échelle verticale, sans modifier le son.
+Les transformations restent en mémoire dans le navigateur.
+
+SHA-256 du fichier original et de la copie servie :
+43d0b8de26677e343b8422e986d0af535fda540fcf1b787d59fab1b2fd4ae79f

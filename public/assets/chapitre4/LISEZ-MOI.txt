@@ -1,0 +1,19 @@
+HUMANITÉS NUMÉRIQUES — ATELIER DU CHAPITRE 4
+
+Travail en binômes à partir d’archives réelles de Polynésie française.
+
+Choisissez une situation : un musée, une mairie, une bibliothèque ou un portail universitaire. Préparez une notice courte et une consultation de la page de Te Vea no Tahiti du 10 janvier 1856 et des deux faces de la carte « Coucher de Soleil sur Moorea », Z14-003-00770. Leur rapprochement est pédagogique, sans lien historique établi.
+
+- Observer les sources A4-P01, A4-P02 et A4-P03 et leurs annotations.
+- Évaluer la qualité de l’OCR brut obtenu avec le modèle français et noter les écarts avec l’image du journal ou les incertitudes.
+- Créer au moins deux annotations sur un ou plusieurs des documents ; pour l’image, utiliser l’utilitaire du site. Choisir leur type et indiquer leur auteur.
+- Parcourir le manifeste IIIF dans le site ; proposer un ordre de consultation, une description accessible et une notice de la carte avec ses dates distinctes et ses crédits.
+- Présenter une décision de diffusion et une information manquante ; exporter le travail.
+
+Les trois JPG sont les images à étudier. Le PDF original du journal et les notices d’origine sont joints sous sources/. Le TXT et le TSV sont des sorties OCR automatiques brutes, sans corrigé. Les notices et consignes sont séparées des archives.
+
+Sur le site : la sauvegarde JSON conserve les notes et les annotations enregistrées. Exporter le carnet Markdown et les annotations CSV ou Web Annotation JSON. Les liens du manifeste nécessitent que le site reste accessible.
+
+Sans ordinateur : utiliser les images imprimées et le carnet vierge ; décrire l’emplacement des zones. Si la lecture d’image est impossible, travailler à partir des descriptions et de l’OCR en indiquant les limites ; les deux annotations spatiales ne sont pas demandées dans cette variante.
+
+SPAA, Polynésie française / Ana’ite, Université de la Polynésie française. Diffusion CC BY-NC-SA selon les notices, sans version précisée. Cartes postales : fonds GUTZWILLER (Fi14), édition G. Spitz.

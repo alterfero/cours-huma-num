@@ -1,0 +1,1162 @@
+// Généré depuis le XML Pangloss par scripts/prepare-chapter2-pangloss.py.
+// Annotations : © Françoise Ozanne-Rivierre, CC BY-NC-SA 2.5. Voir NOTICE.txt.
+export const panglossData = {
+  "source": "pangloss-hulup",
+  "duration": 86.36444444444444,
+  "sampleRate": 44100,
+  "channels": 1,
+  "segments": [
+    {
+      "id": "HULUPs1",
+      "label": "S1",
+      "start": 0.02,
+      "end": 2.42,
+      "form": "Bongon kong Hulup ",
+      "translation": "Histoire du Kong Hulup.",
+      "words": [
+        {
+          "form": "Bongon",
+          "gloss": "histoire de"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        },
+        {
+          "form": "Hulup",
+          "gloss": "Hulup"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs2",
+      "label": "S2",
+      "start": 2.42,
+      "end": 5.64,
+      "form": "E hu ke li xop liamekeiny Kanala. ",
+      "translation": "Il y avait deux frères à Canala",
+      "words": [
+        {
+          "form": "E",
+          "gloss": "il"
+        },
+        {
+          "form": "hu",
+          "gloss": "y a"
+        },
+        {
+          "form": "ke",
+          "gloss": "indéfini"
+        },
+        {
+          "form": "li",
+          "gloss": "les2"
+        },
+        {
+          "form": "xop",
+          "gloss": "hommes"
+        },
+        {
+          "form": "liamekeiny",
+          "gloss": "les2 frères"
+        },
+        {
+          "form": "Kanala",
+          "gloss": "Kanala"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs3",
+      "label": "S3",
+      "start": 5.64,
+      "end": 8.1799,
+      "form": "E hu anyidru kong edhöö hnyi ban bucen. ",
+      "translation": "qui avaient leur dieu, là-haut, sur la montagne.",
+      "words": [
+        {
+          "form": "E",
+          "gloss": "il"
+        },
+        {
+          "form": "hu",
+          "gloss": "y a"
+        },
+        {
+          "form": "anyidru",
+          "gloss": "leur"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        },
+        {
+          "form": "edhöö",
+          "gloss": "là-haut"
+        },
+        {
+          "form": "hnyi",
+          "gloss": "dans"
+        },
+        {
+          "form": "ban",
+          "gloss": "dessus"
+        },
+        {
+          "form": "bucen",
+          "gloss": "montagne"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs4",
+      "label": "S4",
+      "start": 8.1799,
+      "end": 11.22,
+      "form": "M'ödru waahe ka thuutr eû hnyi jee hme. ",
+      "translation": "Un jour, ils allèrent pêcher à marée basse.",
+      "words": [
+        {
+          "form": "M'ödru",
+          "gloss": "et-ils2"
+        },
+        {
+          "form": "waahe",
+          "gloss": "s'en aller"
+        },
+        {
+          "form": "ka",
+          "gloss": "pour"
+        },
+        {
+          "form": "thuutr",
+          "gloss": "pêcher"
+        },
+        {
+          "form": "eû",
+          "gloss": "là-bas (vers la mer)"
+        },
+        {
+          "form": "hnyi",
+          "gloss": "dans"
+        },
+        {
+          "form": "jee",
+          "gloss": "les"
+        },
+        {
+          "form": "hme",
+          "gloss": "trous du récif"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs5",
+      "label": "S5",
+      "start": 11.22,
+      "end": 14.9001,
+      "form": "Kene ödru û hnyi jee hme, ke ame hlâ meic edhöö hnyi ban bucen ",
+      "translation": "Or, pendant qu'ils pêchaient dans les trous du récif, voilà que la montagne s'embrasa",
+      "words": [
+        {
+          "form": "Kene",
+          "gloss": "puis"
+        },
+        {
+          "form": "ödru",
+          "gloss": "eux2"
+        },
+        {
+          "form": "û",
+          "gloss": "là-bas (vers la mer)"
+        },
+        {
+          "form": "hnyi",
+          "gloss": "dans"
+        },
+        {
+          "form": "jee",
+          "gloss": " les"
+        },
+        {
+          "form": "hme",
+          "gloss": "trous du récif"
+        },
+        {
+          "form": "ke",
+          "gloss": "et"
+        },
+        {
+          "form": "ame",
+          "gloss": "il+procès"
+        },
+        {
+          "form": "hlâ",
+          "gloss": "brûler"
+        },
+        {
+          "form": "meic",
+          "gloss": "feu"
+        },
+        {
+          "form": "edhöö",
+          "gloss": "làhaut"
+        },
+        {
+          "form": "hnyi",
+          "gloss": "dans"
+        },
+        {
+          "form": "ban",
+          "gloss": "dessus"
+        },
+        {
+          "form": "bucen",
+          "gloss": "montagne"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs6",
+      "label": "S6",
+      "start": 14.9001,
+      "end": 16.32,
+      "form": "me hlâ thidhö kong. ",
+      "translation": "et que leur dieu prit feu.",
+      "words": [
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "hlâ",
+          "gloss": "brûler"
+        },
+        {
+          "form": "thidhö",
+          "gloss": "alors"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs7",
+      "label": "S7",
+      "start": 16.32,
+      "end": 21.7,
+      "form": "Haba li xop me ödrumwe wâ kong aa hlâ dhö m'ödru he thidhö hoot ai. ",
+      "translation": "Voyant leur dieu en flamme, les deux hommes se hâtèrent de regagner la terre ferme.",
+      "words": [
+        {
+          "form": "Haba",
+          "gloss": "quant à"
+        },
+        {
+          "form": "li",
+          "gloss": "les2"
+        },
+        {
+          "form": "xop",
+          "gloss": "hommes"
+        },
+        {
+          "form": "me",
+          "gloss": "alors"
+        },
+        {
+          "form": "ödrumwe",
+          "gloss": "ils2+procès"
+        },
+        {
+          "form": "wâ",
+          "gloss": "voir"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        },
+        {
+          "form": "aa",
+          "gloss": "il+accompli"
+        },
+        {
+          "form": "hlâ",
+          "gloss": "brûler"
+        },
+        {
+          "form": "dhö",
+          "gloss": "alors"
+        },
+        {
+          "form": "m'ödru",
+          "gloss": "et-ils2"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "thidhö",
+          "gloss": "alors"
+        },
+        {
+          "form": "hoot",
+          "gloss": "terre"
+        },
+        {
+          "form": "ai",
+          "gloss": "vers"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs8",
+      "label": "S8",
+      "start": 21.7,
+      "end": 24.8801,
+      "form": "Ödru oo edhöö hnyi ban bucen ke aa keec ut kong. ",
+      "translation": "Lorsqu'ils arrivèrent en haut de la montagne, leur dieu avait déjà fui.",
+      "words": [
+        {
+          "form": "Ödru",
+          "gloss": "ils2"
+        },
+        {
+          "form": "oo",
+          "gloss": "arriver"
+        },
+        {
+          "form": "edhöö",
+          "gloss": "là-haut"
+        },
+        {
+          "form": "hnyi",
+          "gloss": "dans"
+        },
+        {
+          "form": "ban",
+          "gloss": "dessus"
+        },
+        {
+          "form": "bucen",
+          "gloss": "montagne"
+        },
+        {
+          "form": "ke",
+          "gloss": "et"
+        },
+        {
+          "form": "aa",
+          "gloss": "il+accompli"
+        },
+        {
+          "form": "keec",
+          "gloss": "fuir"
+        },
+        {
+          "form": "ut",
+          "gloss": "révolu"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs9",
+      "label": "S9",
+      "start": 24.8801,
+      "end": 27.96,
+      "form": "M'ödru he thibut hotoon anyidru kong. ",
+      "translation": "Ils se lancèrent à sa poursuite.",
+      "words": [
+        {
+          "form": "M'ödru",
+          "gloss": "et-ils2"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "thibut",
+          "gloss": "révolu"
+        },
+        {
+          "form": "hotoon",
+          "gloss": "derrière"
+        },
+        {
+          "form": "anyidru",
+          "gloss": "leur(duel)"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs10",
+      "label": "S10",
+      "start": 27.96,
+      "end": 32.9801,
+      "form": "E oo thibut kong eû hnyi wasaû me ka he but kong. ",
+      "translation": "Leur dieu gagna la passe",
+      "words": [
+        {
+          "form": "E",
+          "gloss": "il"
+        },
+        {
+          "form": "oo",
+          "gloss": "arriver"
+        },
+        {
+          "form": "thibut",
+          "gloss": "révolu"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        },
+        {
+          "form": "eû",
+          "gloss": "là-bas"
+        },
+        {
+          "form": "hnyi",
+          "gloss": "dans"
+        },
+        {
+          "form": "wasaû",
+          "gloss": "passe"
+        },
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "ka",
+          "gloss": "assertif"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "but",
+          "gloss": "révolu"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs11",
+      "label": "S11",
+      "start": 32.9801,
+      "end": 36.64,
+      "form": "Haba li xop me ödrumwe ka he thibut hotoon. ",
+      "translation": "et les deux hommes le suivirent.",
+      "words": [
+        {
+          "form": "Haba",
+          "gloss": "quant à"
+        },
+        {
+          "form": "li",
+          "gloss": "les2"
+        },
+        {
+          "form": "xop",
+          "gloss": "hommes"
+        },
+        {
+          "form": "me",
+          "gloss": "alors"
+        },
+        {
+          "form": "ödrumwe",
+          "gloss": "ils2+procès"
+        },
+        {
+          "form": "ka",
+          "gloss": "assertif"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "thibut",
+          "gloss": "révolu"
+        },
+        {
+          "form": "hotoon",
+          "gloss": "derrière lui"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs12",
+      "label": "S12",
+      "start": 36.64,
+      "end": 42.8999,
+      "form": "Haba haten köödru hnyi litr me ûnya meic ame hlâ hnyimëködru, kene ka oo but Iaai. ",
+      "translation": "Leur repère dans la nuit, c'était ce feu, en face d'eux, qui les mena jusqu'à Ouvéa.",
+      "words": [
+        {
+          "form": "Haba",
+          "gloss": "quant à"
+        },
+        {
+          "form": "haten",
+          "gloss": "signe"
+        },
+        {
+          "form": "köödru",
+          "gloss": "pour-eux2"
+        },
+        {
+          "form": "hnyi",
+          "gloss": "dans"
+        },
+        {
+          "form": "litr",
+          "gloss": "nuit"
+        },
+        {
+          "form": "me",
+          "gloss": "alors"
+        },
+        {
+          "form": "ûnya",
+          "gloss": "c'est"
+        },
+        {
+          "form": "meic",
+          "gloss": "feu"
+        },
+        {
+          "form": "ame",
+          "gloss": "il+procès"
+        },
+        {
+          "form": "hlâ",
+          "gloss": "brûler"
+        },
+        {
+          "form": "hnyimëködru",
+          "gloss": "face-à eux2"
+        },
+        {
+          "form": "kene",
+          "gloss": "ensuite"
+        },
+        {
+          "form": "ka",
+          "gloss": "pour"
+        },
+        {
+          "form": "oo",
+          "gloss": "arriver"
+        },
+        {
+          "form": "but",
+          "gloss": "révolu"
+        },
+        {
+          "form": "Iaai",
+          "gloss": "Ouvéa"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs13",
+      "label": "S13",
+      "start": 42.8999,
+      "end": 48.12,
+      "form": "Me e ölö dhö kong eû Hwakaiö me he tootrö jimeû hnyi hnyei ",
+      "translation": "Leur dieu aborda d'abord à Hwakaiö [c'est à dire à Mouli], avant de pénétrer plus avant dans le pays.",
+      "words": [
+        {
+          "form": "Me",
+          "gloss": "et"
+        },
+        {
+          "form": "e",
+          "gloss": "il"
+        },
+        {
+          "form": "ölö",
+          "gloss": "monter"
+        },
+        {
+          "form": "dhö",
+          "gloss": "alors"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        },
+        {
+          "form": "eû",
+          "gloss": "là-bas"
+        },
+        {
+          "form": "Hwakaiö",
+          "gloss": "Hwakaiö"
+        },
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "tootrö",
+          "gloss": "de plus en plus"
+        },
+        {
+          "form": "jimeû",
+          "gloss": "venant de là"
+        },
+        {
+          "form": "hnyi",
+          "gloss": "dans"
+        },
+        {
+          "form": "hnyei",
+          "gloss": "pays"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs14",
+      "label": "S14",
+      "start": 48.12,
+      "end": 51.68,
+      "form": "me ebë dhö dok ame wâ ae ûcû amaa laba hnyin. ",
+      "translation": "Mais, là, il ne trouva aucune place où s'installer.",
+      "words": [
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "ebë",
+          "gloss": "il n'y a pas"
+        },
+        {
+          "form": "dhö",
+          "gloss": "alors"
+        },
+        {
+          "form": "dok",
+          "gloss": "endroit"
+        },
+        {
+          "form": "ame",
+          "gloss": "il+procès"
+        },
+        {
+          "form": "wâ",
+          "gloss": "voir"
+        },
+        {
+          "form": "ae",
+          "gloss": "qui"
+        },
+        {
+          "form": "ûcû",
+          "gloss": "convenable"
+        },
+        {
+          "form": "amaa",
+          "gloss": "il+futur"
+        },
+        {
+          "form": "laba",
+          "gloss": "rester"
+        },
+        {
+          "form": "hnyin",
+          "gloss": "dedans"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs15",
+      "label": "S15",
+      "start": 51.68,
+      "end": 55.0599,
+      "form": "Haba li xop me ödrumwe ka he thibut hotoon. ",
+      "translation": "Les deux hommes le suivaient toujours.",
+      "words": [
+        {
+          "form": "Haba",
+          "gloss": "quant à"
+        },
+        {
+          "form": "li",
+          "gloss": "les2"
+        },
+        {
+          "form": "xop",
+          "gloss": "hommes"
+        },
+        {
+          "form": "me",
+          "gloss": "alors"
+        },
+        {
+          "form": "ödrumwe",
+          "gloss": "ils2+procès"
+        },
+        {
+          "form": "ka",
+          "gloss": "assertif"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "thibut",
+          "gloss": "révolu"
+        },
+        {
+          "form": "hotoon",
+          "gloss": "derrière-lui"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs16",
+      "label": "S16",
+      "start": 55.0599,
+      "end": 59.5001,
+      "form": "ödrin he but ka oo wasaû m'ödrin oo but Lekiny ",
+      "translation": "Ils continuèrent alors jusqu'à Lekiny.",
+      "words": [
+        {
+          "form": "ödrin",
+          "gloss": "ils"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "but",
+          "gloss": "révolu"
+        },
+        {
+          "form": "ka",
+          "gloss": "pour"
+        },
+        {
+          "form": "oo",
+          "gloss": "arriver"
+        },
+        {
+          "form": "wasaû",
+          "gloss": "passe"
+        },
+        {
+          "form": "m'ödrin",
+          "gloss": "et+ils"
+        },
+        {
+          "form": "oo",
+          "gloss": "arriver"
+        },
+        {
+          "form": "but",
+          "gloss": "révolu"
+        },
+        {
+          "form": "Lekiny",
+          "gloss": "Lekiny"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs17",
+      "label": "S17",
+      "start": 59.5001,
+      "end": 63.1401,
+      "form": "me ame heleü hnen me bë dok amaa laba hnyin; ",
+      "translation": "Mais là encore, il eut beau chercher, il ne trouva aucune place convenable.",
+      "words": [
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "ame",
+          "gloss": "il+procès"
+        },
+        {
+          "form": "heleü",
+          "gloss": "chercher"
+        },
+        {
+          "form": "hnen",
+          "gloss": "place-à lui"
+        },
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "bë",
+          "gloss": "ne pas y avoir"
+        },
+        {
+          "form": "dok",
+          "gloss": "endroit"
+        },
+        {
+          "form": "amaa",
+          "gloss": "il+futur"
+        },
+        {
+          "form": "laba",
+          "gloss": "rester"
+        },
+        {
+          "form": "hnyin",
+          "gloss": "dedans"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs18",
+      "label": "S18",
+      "start": 63.1401,
+      "end": 66.08,
+      "form": "me he but ka oo Vëkatr me ebë hnen, ",
+      "translation": "Il gagna Vëkatr mais, là encore, il n'y avait pas de place pour lui.",
+      "words": [
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "but",
+          "gloss": "révolu"
+        },
+        {
+          "form": "ka",
+          "gloss": "pour"
+        },
+        {
+          "form": "oo",
+          "gloss": "arriver"
+        },
+        {
+          "form": "Vëkatr",
+          "gloss": "Vëkatr"
+        },
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "ebë",
+          "gloss": "il n'y a pas"
+        },
+        {
+          "form": "hnen",
+          "gloss": "place-à lui"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs19",
+      "label": "S19",
+      "start": 66.08,
+      "end": 69.1799,
+      "form": "me he but me oo but Hânyââû; ",
+      "translation": "Ils gagnèrent enfin Hânyââû",
+      "words": [
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "but",
+          "gloss": "révolu"
+        },
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "oo",
+          "gloss": "arriver"
+        },
+        {
+          "form": "but",
+          "gloss": "révolu"
+        },
+        {
+          "form": "Hânyââû",
+          "gloss": "Hânyââû"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs20",
+      "label": "S20",
+      "start": 69.1799,
+      "end": 74.36,
+      "form": "me haba ke at hnyin li xop me ölö thidhö ka hnyi ban ûöö. ",
+      "translation": "et là, un des deux hommes grimpa sur un arbre.",
+      "words": [
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "haba",
+          "gloss": "quant à"
+        },
+        {
+          "form": "ke",
+          "gloss": "indéfini"
+        },
+        {
+          "form": "at",
+          "gloss": "homme"
+        },
+        {
+          "form": "hnyin",
+          "gloss": "dedans"
+        },
+        {
+          "form": "li",
+          "gloss": "les2"
+        },
+        {
+          "form": "xop",
+          "gloss": "hommes"
+        },
+        {
+          "form": "me",
+          "gloss": "alors"
+        },
+        {
+          "form": "ölö",
+          "gloss": "monter"
+        },
+        {
+          "form": "thidhö",
+          "gloss": "alors"
+        },
+        {
+          "form": "ka",
+          "gloss": "vers"
+        },
+        {
+          "form": "hnyi",
+          "gloss": "dans"
+        },
+        {
+          "form": "ban",
+          "gloss": "dessus"
+        },
+        {
+          "form": "ûöö",
+          "gloss": "arbre"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs21",
+      "label": "S21",
+      "start": 74.36,
+      "end": 78.5,
+      "form": "Ame kaa he ka ta ejii hon kânâ me ame lung me haingen thidhö: ",
+      "translation": "Lorsqu'il se laissa tomber à terre, le tonnerre éclata et il déclara :",
+      "words": [
+        {
+          "form": "Ame",
+          "gloss": "il+procès"
+        },
+        {
+          "form": "kaa",
+          "gloss": "quand"
+        },
+        {
+          "form": "he",
+          "gloss": "aller"
+        },
+        {
+          "form": "ka",
+          "gloss": "pour"
+        },
+        {
+          "form": "ta",
+          "gloss": "tomber"
+        },
+        {
+          "form": "ejii",
+          "gloss": "en bas"
+        },
+        {
+          "form": "hon",
+          "gloss": "sur"
+        },
+        {
+          "form": "kânâ",
+          "gloss": "terre"
+        },
+        {
+          "form": "me",
+          "gloss": "alors"
+        },
+        {
+          "form": "ame",
+          "gloss": "il+procès"
+        },
+        {
+          "form": "lung",
+          "gloss": "tonner"
+        },
+        {
+          "form": "me",
+          "gloss": "et"
+        },
+        {
+          "form": "haingen",
+          "gloss": "dire"
+        },
+        {
+          "form": "thidhö",
+          "gloss": "alors"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs22",
+      "label": "S22",
+      "start": 78.5,
+      "end": 80.92,
+      "form": "\"Wale ju ang dok amaa laba hnyin kong\". ",
+      "translation": "\"Voilà l'endroit où le dieu doit rester\".",
+      "words": [
+        {
+          "form": "Wale",
+          "gloss": "voilà"
+        },
+        {
+          "form": "ju",
+          "gloss": "dès lors"
+        },
+        {
+          "form": "ang",
+          "gloss": "ici"
+        },
+        {
+          "form": "dok",
+          "gloss": "endroit"
+        },
+        {
+          "form": "amaa",
+          "gloss": "il+futur"
+        },
+        {
+          "form": "laba",
+          "gloss": "rester"
+        },
+        {
+          "form": "hnyin",
+          "gloss": "dedans"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        }
+      ]
+    },
+    {
+      "id": "HULUPs23",
+      "label": "S23",
+      "start": 80.92,
+      "end": 86.1799,
+      "form": "M'ödru laba thiju ee me anyidru kong ka oo walaang ang. ",
+      "translation": "Et c'est donc là que leur dieu demeure jusqu'à aujourd'hui.",
+      "words": [
+        {
+          "form": "M'ödru",
+          "gloss": "et-ils2"
+        },
+        {
+          "form": "laba",
+          "gloss": "rester"
+        },
+        {
+          "form": "thiju",
+          "gloss": "dès lors"
+        },
+        {
+          "form": "ee",
+          "gloss": "là"
+        },
+        {
+          "form": "me",
+          "gloss": "avec"
+        },
+        {
+          "form": "anyidru",
+          "gloss": "leur (à 2)"
+        },
+        {
+          "form": "kong",
+          "gloss": "dieu"
+        },
+        {
+          "form": "ka",
+          "gloss": "pour"
+        },
+        {
+          "form": "oo",
+          "gloss": "arriver"
+        },
+        {
+          "form": "walaang",
+          "gloss": "voici"
+        },
+        {
+          "form": "ang",
+          "gloss": "maintenant"
+        }
+      ]
+    }
+  ],
+  "hashes": {
+    "144254_HULUP_44k.mp3": "7db8a6e314e71a0b4941598b216d04cc2ec33b9cb96d7d89e2da93c8de7a9fbc",
+    "crdo-IAI_HULUP.xml": "bb1eb84934d6046507d7b2fec2d7ee372b69402dc8ad357c88f5ddcab3f88edc",
+    "media-olac.xml": "3a958240939c29de5ea2ec5d94f43523aec8d4184ce9d1f148d0e9d9fae1ca70",
+    "annotation-olac.xml": "2ea7b864bbf6c835d1ecf5e29ddd3ff57016adce251daee9d10a7b4f60ffe15e"
+  }
+};

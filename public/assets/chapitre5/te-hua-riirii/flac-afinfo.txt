@@ -1,0 +1,17 @@
+File:           audio/archive/03-Te Hua Riirii.flac
+File type ID:   flac
+Num Tracks:     1
+----
+Data format:     2 ch,  44100 Hz, flac (0x00000001) from 16-bit source, 4096 frames/packet
+Channel layout: Stereo (L R)
+estimated duration: 47.549388 sec
+audio bytes: 4157680
+audio packets: 512
+bit rate: 699438 bits per second
+packet size upper bound: 9867
+maximum packet size: 9867
+audio data file offset: 126
+optimized
+audio 2096928 valid frames + 0 priming + 224 remainder = 2097152
+source bit depth: I16
+----

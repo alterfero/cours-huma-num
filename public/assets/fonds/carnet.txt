@@ -1,0 +1,9 @@
+FE-01 — Fragment de carnet
+Statut : document fictif créé pour l’exercice.
+La notice de présentation figure dans notices-des-pieces.md.
+
+--- DÉBUT DU DOCUMENT ---
+Le 12, au matin, au débarcadère.
+Le bateau arrive en retard.
+Une personne me dit que les départs étaient « plus réguliers autrefois ».
+--- FIN DU DOCUMENT ---

@@ -1,0 +1,91 @@
+{
+  "notice": "Fonds-école entièrement fictif. Les voix sont des synthèses en français et les sons sans paroles sont calculés. Aucun témoignage, enregistrement de terrain, chant ou pratique culturelle réelle n’est reproduit. Les lieux du scénario sont inventés ; la carte est un schéma sans coordonnées géographiques.",
+  "production": "Voix de synthèse Thomas (macOS) ou signaux calculés ; créations fictives pour le cours.",
+  "dateProduction": "2026-11-06",
+  "places": [
+    {
+      "id": "salle",
+      "name": "Maison des récits"
+    },
+    {
+      "id": "quai",
+      "name": "Jetée"
+    },
+    {
+      "id": "atelier",
+      "name": "Atelier du fonds"
+    },
+    {
+      "id": "belvedere",
+      "name": "Belvédère"
+    }
+  ],
+  "items": [
+    {
+      "id": "A5-01",
+      "scope": "atelier",
+      "title": "Projet de point d’écoute",
+      "genre": "Parole",
+      "language": "Français",
+      "recorded": "salle",
+      "mentioned": "quai",
+      "tags": [
+        "accueil",
+        "déplacement"
+      ],
+      "speaker": "Voix de synthèse Thomas",
+      "context": "Pièce du scénario : message préparatoire concernant un parcours entre la jetée et la maison des récits. Auteur et date du message non renseignés.",
+      "access": "Pièce du scénario : une note jointe mentionne « écoute dans la salle ». Aucun document joint ne précise les usages en ligne.",
+      "file": {
+        "file": "a5-01.wav",
+        "duration": 19.99628117913832,
+        "bytes": 881880,
+        "sha256": "36f5961829fc2d91fd7449e88a17cfe50b118f8ed34f095c5b95780ef02c61f1"
+      }
+    },
+    {
+      "id": "A5-02",
+      "scope": "atelier",
+      "title": "Une boîte pour les documents",
+      "genre": "Parole",
+      "language": "Français",
+      "recorded": null,
+      "mentioned": "atelier",
+      "tags": [
+        "documents",
+        "mémoire"
+      ],
+      "speaker": "Voix de synthèse Thomas",
+      "context": "Pièce du scénario : message reçu avec une liste de documents. Le lieu de l’enregistrement n’est pas indiqué ; le texte évoque l’atelier du fonds.",
+      "access": "Pièce du scénario : aucune indication relative à la diffusion n’accompagne le message.",
+      "file": {
+        "file": "a5-02.wav",
+        "duration": 14.539092970521542,
+        "bytes": 641218,
+        "sha256": "2b7f38afc7025d569a02dcbc2c1e4736ef24c0d6292dddb5351e3a95336df713"
+      }
+    },
+    {
+      "id": "A5-03",
+      "scope": "atelier",
+      "title": "Essai pour une installation",
+      "genre": "Son sans paroles",
+      "language": "Sans paroles",
+      "recorded": "atelier",
+      "mentioned": null,
+      "tags": [
+        "signal",
+        "installation"
+      ],
+      "speaker": "Générateur numérique",
+      "context": "Pièce du scénario : essai sonore associé au projet d’installation. Aucun lieu naturel n’a été enregistré.",
+      "access": "Pièce du scénario : essai technique prévu pour la préparation de l’installation.",
+      "file": {
+        "file": "a5-03.wav",
+        "duration": 12,
+        "bytes": 529244,
+        "sha256": "5aa7f513d55c24a12636fcbae9865c9ba10fb1e70b61f689bb8fe47075159b60"
+      }
+    }
+  ]
+}

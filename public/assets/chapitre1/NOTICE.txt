@@ -1,0 +1,47 @@
+CARTE POSTALE DU CHAPITRE 1 — PROVENANCE ET RÉUTILISATION
+
+Titre : 98. - Tahiti. - Coucher de Soleil sur Moorea / Sunset on Moorea
+Éditeur : Edition G. Spitz. Photographe non identifié dans la notice.
+Identifiant : Z14-003-00770
+Conservation : Service du patrimoine archivistique et audiovisuel (SPAA),
+fonds GUTZWILLER (Fi14), Polynésie française.
+Diffusion : Ana’ite, Université de la Polynésie française (UPF).
+Notice : https://anaite.upf.pf/s/anaite/item/49989
+API : https://anaite.upf.pf/api/items/49989
+Consultation et téléchargement : 6 novembre 2026 (Pacific/Tahiti).
+
+DATATION
+Édition estimée vers 1914–1920 par la notice, d’après le papier.
+Correspondance datée de Papeete le 19 janvier 1929.
+Numérisation : 2017, selon la notice.
+Ces dates ne sont pas interchangeables. La date du cliché n’est pas établie.
+
+DROITS
+La notice autorise la diffusion sous Creative Commons BY-NC-SA en vertu
+de la convention entre l’UPF et le SPAA. Elle ne précise pas de version.
+Attribution requise ; utilisation non commerciale ; partage des adaptations
+sous les mêmes conditions. Il ne s’agit pas d’une déclaration de domaine public.
+Réutilisation pédagogique non commerciale retenue pour ce cours.
+Pour les conditions exactes et toute autre utilisation, consulter la notice
+et les institutions diffusant la ressource.
+
+FICHIERS ET CONVENTIONS
+Les deux JPEG sont reproduits à l’identique, sans recadrage, retouche ni retrait
+des marques d’archives. L’affichage adapte seulement leur taille à l’écran.
+Attention : les suffixes d’origine r/v sont conservés, mais la face illustrée
+est présentée comme « recto » et la face correspondance comme « verso »
+conformément à la convention employée dans le cours et à la demande.
+- Z14-003-00770-v.jpg : recto illustré, vue de Moorea depuis Tahiti.
+- Z14-003-00770-r.jpg : verso, message, adresse et timbre de 40 centimes.
+notice-anaite.json : instantané de la notice publique d’origine.
+
+TRANSFORMATIONS PÉDAGOGIQUES
+Transcription manuelle partielle de la légende, de la date et de l’adresse.
+Message en diagonale et signature non transcrits. Blocs remis à l’horizontale ;
+apostrophe typographique ; date normalisée 1929-01-19 ajoutée séparément.
+La notice pédagogique sélectionne et explicite des informations de la notice
+Ana’ite. Les hypothèses et commentaires sont rédigés pour le cours.
+
+EMPREINTES SHA-256 DES NUMÉRISATIONS
+Z14-003-00770-r.jpg : 196d9e0a75ba18efb2ac2ca3f943af11bc3f6c013e15cdd825ab6f00d8d61cb9
+Z14-003-00770-v.jpg : 81777973a2767d4ea255d503b8b887fd8f3eb2a4eda110ae8fb2ff246ac213d2
